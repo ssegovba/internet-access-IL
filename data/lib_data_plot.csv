@@ -1,0 +1,782 @@
+lib_name,lib_address,latitude,longitude,lib_name_survey,lib_address_survey,broadband,wifi,down_open,upload_open,down_midday,upload_midday,down_close,upload_close,avg_down_speed,avg_up_speed
+A. Herr Smith & E.E. Smith Loda Township Library,"105 East Adams Street Loda, IL 60948-0247",40.5178278,-88.07066549999999,,,,,,,,,,,,
+Acorn Public Library District,"15624 South Central Avenue Oak Forest, IL 60452-3204",41.607358,-87.7567282,,,,,,,,,,,,
+Addison Public Library,"4 Friendship Plaza Addison, IL 60101-2787",41.9321707,-87.9935689,,,,,,,,,,,,
+Albion Public Library,"6 North Fourth Street Albion, IL 62806-1221",38.3772186,-88.0559864,,,,,,,,,,,,
+Algonquin Area Public Library District,"2600 Harnish Drive Algonquin, IL 60102",42.1621378,-88.34617,,,,,,,,,,,,
+Eastgate Branch Library,"115 Eastgate Drive Algonquin, IL 60102",42.1626475,-88.28348419999999,Algonquin Area Public Library District,"115 Eastgate Drive, Algonquin, Illinois 60102",Yes,Yes,295.0,30.0,258.0,30.0,293.0,30.0,282.0,30.0
+Allerton Public Library District,"4000 Green Apple Lane Monticello, IL 61856-8324",40.0288963,-88.60567909999999,Allerton Public Library District,4000 Green Apple Lane,Yes,Yes,50.0,48.0,51.0,40.0,43.0,30.0,48.0,39.333333333333336
+Allin Township Library,"116 West Main Street Stanford, IL 61774-0258",40.4344813,-89.2190457,,,,,,,,,,,,
+Alpha Park Public Library District,"3527 South Airport Road Bartonville, IL 61607-1799",40.6459057,-89.6809597,Alpha Park Public Library District,"3527 S Airport Rd. Bartonville, IL 616107",Yes,Yes,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+Alsip-Merrionette Park Public Library District,"11960 South Pulaski Road Alsip, IL 60803-1197",41.6750205,-87.72010929999999,,,,,,,,,,,,
+Altamont Public Library,"121 West Washington Avenue Altamont, IL 62411-1451",39.0605315,-88.7495125,,,,,,,,,,,,
+Andalusia Township Library,"503 Second Street West Andalusia, IL 61232-0268",41.4397467,-90.7204318,,,,,,,,,,,,
+Annawan-Alba Township Library,"200 North Meadow Lane Annawan, IL 61234-7607",41.4028028,-89.9078729,,,,,,,,,,,,
+Anne West Lindsey District Library,"600 North Division Street Carterville, IL 62918-2101",37.7681142,-89.0764059,,,,,,,,,,,,
+Antioch Public Library District,"757 Main Street Antioch, IL 60002-1398",42.4823926,-88.0957861,Antioch Public Library District,"757 Main Street Antioch, IL 60002",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Arcola Public Library District,"407 East Main Street Arcola, IL 61910-1513",39.6843285,-88.3032375,,,,,,,,,,,,
+Oreana Public Library,"211 South Route 48 Oreana, IL 62554-0278",39.9394211,-88.8643814,Argenta-Oreana Public Library District,"211 South Route 48, Oreana, IL, 62554",Yes,Yes,19.0,20.0,,,,,19.0,20.0
+Argenta Public Library,"100 East Water Street Argenta, IL 62501",39.9811689,-88.82221129999999,,,,,,,,,,,,
+Arlington Heights Memorial Library,"500 North Dunton Avenue Arlington Heights, IL 60004-5966",42.0878751,-87.9832409,,,,,,,,,,,,
+Arlington Heights Senior Center Branch,"1801 West Central Road Arlington Heights, IL 60005",42.0654781,-88.0050109,,,,,,,,,,,,
+John E. Timm Memorial Building,"225 South Walnut Street Arthur, IL 61911-1269",39.7152044,-88.4738041,,,,,,,,,,,,
+Ashley Public Library District,"Post Office Box 246 Ashley, IL 62808-0246",38.3294942,-89.19090969999999,,,,,,,,,,,,
+Assumption Public Library District,"205 North Oak Street Assumption, IL 62510-1100",39.5206181,-89.0487673,Assumption Public Library District,"205 N. Oak St., Assumption, Illinois 62510",Yes,Yes,91.0,10.0,91.0,10.0,91.0,9.0,91.0,9.666666666666666
+Astoria Public Library District,"220 West Broadway Avenue Astoria, IL 61501-9630",40.2267642,-90.360677,,,,,,,,,,,,
+Athens Municipal Library,"410 East Hargrave Street Athens, IL 62613-9702",39.9603968,-89.7180023,,,,,,,,,,,,
+Atkinson Public Library District,"109 South State Street Atkinson, IL 61235-9788",41.4152018,-90.01610439999999,,,,,,,,,,,,
+Atlanta Public Library District,"100 Race Street Atlanta, IL 61723-0568",40.2610855,-89.232891,,,,,,,,,,,,
+Atwood-Hammond Public Library District,"123 North Main Street Atwood, IL 61913-0440",39.8004305,-88.4626242,,,,,,,,,,,,
+Auburn Public Library District,"338 West Jefferson Street Auburn, IL 62615-1424",39.5920768,-89.7452569,,,,,,,,,,,,
+Richard and Gina Santori Public Library of Aurora,"101 South River Street Aurora, IL 60506-6005",41.7570394,-88.3200588,,,,,,,,,,,,
+Eola Road Branch Library,"555 South Eola Road Aurora, IL 60504-8992",41.746014,-88.24786759999999,,,,,,,,,,,,
+West Branch Library,"233 South Constitution Drive Aurora, IL 60506-4468",41.75852030000001,-88.36816830000001,,,,,,,,,,,,
+West Branch Library,"3414 West Main Street Belleville, IL 62226",38.5322413,-90.01533909999999,,,,,,,,,,,,
+Ayer Public Library District,"208 Locust Street Delavan, IL 61734-9229",40.3741079,-89.54691369999999,Ayer Public Library District,"208 Locust St, Delavan IL 61734",Yes,Yes,71.0,13.0,70.0,11.0,59.0,11.0,66.66666666666667,11.666666666666666
+Barclay Public Library District,"220 South Main Street Warrensburg, IL 62573-0349",39.9271292,-89.0623379,,,,,,,,,,,,
+Barrington Area Library,"505 N. Northwest Highway Barrington, IL 60010-3399",42.1592547,-88.12768969999999,,,,,,,,,,,,
+Barry Public Library,"880 Bainbridge Street Barry, IL 62312-1207",39.6928392,-91.0405479,,,,,,,,,,,,
+Bartlett Public Library District,"800 South Bartlett Road Bartlett, IL 60103-4663",41.9768493,-88.18454489999999,,,,,,,,,,,,
+Batavia Public Library District,"10 South Batavia Avenue Batavia, IL 60510-2449",41.8494912,-88.3112503,Batavia Public Library,"10 S. Batavia Ave., Batavia, IL 60510",Yes,Yes,320.0,35.0,290.0,35.0,315.0,35.0,308.3333333333333,35.0
+Beardstown Houston Memorial Public Library,"13 Boulevard Road Beardstown, IL 62618-8119",40.0058706,-90.427174,,,,,,,,,,,,
+Bedford Park Public Library District,"7816 West 65th Place Bedford Park, IL 60501-1914",41.7731153,-87.8163186,Bedford Park Public Library,7816 W 65th Place Bedford Park IL 60501,Yes,Yes,296.0,29.0,289.0,30.0,297.0,30.0,294.0,29.666666666666668
+Beecher Community Library District,"660 Penfield Street Beecher, IL 60401-0818",41.3420964,-87.62692899999999,,,,,,,,,,,,
+Belleville Public Library,"121 East Washington Street Belleville, IL 62220-2205",38.5128535,-89.9818931,,,,,,,,,,,,
+Bellwood Public Library,"600 Bohland Avenue Bellwood, IL 60104-1865",41.8813686,-87.8775154,,,,,,,,,,,,
+Bement Public Library District,"Bement Public Library Bement, IL 61813",39.9197126,-88.57166819999999,,,,,,,,,,,,
+Bensenville Community Public Library District,"200 South Church Road Bensenville, IL 60106-2398",41.9523608,-87.9522349,,,,,,,,,,,,
+Benton Public Library District,"502 South Main Street Benton, IL 62812-1712",37.9914759,-88.9200568,,,,,,,,,,,,
+Berkeley Public Library,"1637 North Taft Avenue Berkeley, IL 60163-1499",41.88403659999999,-87.9127558,Berkeley Public Library,1637 N Taft Avenue,Yes,Yes,320.0,289.0,320.0,289.0,320.0,288.0,320.0,288.6666666666667
+Bertolet Memorial Library District,"705 Main Street Leaf River, IL 61047-0339",42.120249,-89.4033741,,,,,,,,,,,,
+Berwyn Public Library,"2701 South Harlem Avenue Berwyn, IL 60402-2140",41.8416262,-87.8027671,BERWYN PUBLIC LIBRARY,2701 S. HARLEM AVE.,Yes,Yes,79.0,90.0,81.0,87.0,82.0,84.0,80.66666666666667,87.0
+Bethalto Public Library District,"321 South Prairie Street Bethalto, IL 62010-1525",38.907462,-90.0403467,Bethalto Public Library District,"321 S. Prairie St., Bethalto, IL 62010",Yes,Yes,203.0,7.0,146.0,3.0,209.0,7.0,186.0,5.666666666666667
+Blandinsville-Hire Library District,"130 South Main Street Blandinsville, IL 61420-0050",40.5555979,-90.8663595,,,,,,,,,,,,
+Bloomingdale Public Library,"101 Fairfield Way Bloomingdale, IL 60108-1537",41.94896749999999,-88.0791599,Bloomingdale Public Library,"101 Fairfield Way, Bloomingdale IL 60108",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Bloomington Public Library,"205 E Olive St Bloomington, IL 61701",40.4765926,-88.9914337,Bloomington Public Library,"205 E Olive St, Bloomington, IL 61701",Yes,Yes,95.0,100.0,75.0,88.0,95.0,100.0,88.33333333333333,96.0
+Blue Island Public Library,"2433 York Street Blue Island, IL 60406-2011",41.6569283,-87.68141969999999,,,,,,,,,,,,
+Blue Mound Memorial Library District,"213 North Saint Marie Street Blue Mound, IL 62513-0317",39.7006325,-89.1232879,,,,,,,,,,,,
+Blue Ridge Township,"116 East Oliver Street Mansfield, IL 61854-0457",40.2113401,-88.5052103,,,,,,,,,,,,
+Bluffs Public Library,"110 Bluff St., PO Box 177 Bluffs, IL 62621",39.7508087,-90.5350022,Bluffs Public LIbrary,"110 N. Bluff St., Bluffs, IL 62621",Yes,Yes,160.0,160.0,155.0,155.0,160.0,160.0,158.33333333333334,158.33333333333334
+Bond Public Library,"208 South Chestnut Street Wenona, IL 61377-0427",41.0523251,-89.0500983,,,,,,,,,,,,
+Bourbonnais Public Library District,"250 West John Casey Road Bourbonnais, IL 60914-1373",41.165248,-87.8794463,,,,,,,,,,,,
+Bradford Public Library District,"111 South Peoria Street Bradford, IL 61421-0249",41.1766683,-89.6575376,Bradford Public Library District,"111 S. Peoria St., Bradford, IL 61421",Yes,Yes,67.0,9.0,67.0,9.0,,,67.0,9.0
+Bradley Public Library District,"296 North Fulton Avenue Bradley, IL 60915-1253",41.14769099999999,-87.8561455,,,,,,,,,,,,
+Breese Public Library,"530 North Third Street Breese, IL 62230-1513",38.6096289,-89.5283462,,,,,,,,,,,,
+Bridgeview Public Library,"7840 West 79th Street Bridgeview, IL 60455-1496",41.74820039999999,-87.8158251,,,,,,,,,,,,
+Brighton Memorial Library District,"110 North Main Street Brighton, IL 62012-0183",39.0396499,-90.141451,,,,,,,,,,,,
+Brimfield Public Library District,"111 S. Galena Ave. Brimfield, IL 61517",40.8385296,-89.8849345,Brimfield Public Library District,"111 South Galena Avenue Brimfield, IL 61517",Yes,Yes,111.0,72.0,104.0,61.0,27.0,20.0,80.66666666666667,51.0
+Broadview Public Library District,"2226 South 16th Avenue Broadview, IL 60155-4000",41.8633054,-87.85219389999999,,,,,,,,,,,,
+Brown County Public Library District,"143 West Main Street Mount Sterling, IL 62353-1223",39.9862737,-90.7660755,Brown County Public Library District,"143 W Main St - Mt. Sterling, IL  62353",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Bryan-Bennett Library,"315 South Maple Street Salem, IL 62881-0864",38.6251261,-88.9479329,Bryan-Bennett Library,"315 South Maple, Salem, IL 62881",Yes,Yes,217.0,23.0,186.0,21.0,219.0,5.0,207.33333333333334,16.333333333333332
+Bunker Hill Public Library District,"220 East Warren Street Bunker Hill, IL 62014-0664",39.0426319,-89.950408,,,,,,,,,,,,
+Bushnell Public Library District,"455 North Dean Street Bushnell, IL 61422-1228",40.5532653,-90.5113482,,,,,,,,,,,,
+Byron Public Library District,"100 South Washington Street Byron, IL 61010-1460",42.1248596,-89.2597134,,,,,,,,,,,,
+C.E. Brehm Memorial Public Library District,"101 South Seventh Street Mount Vernon, IL 62864-4114",38.3175641,-88.89942760000001,,,,,,,,,,,,
+Cahokia Public Library District,"140 Cahokia Park Drive Cahokia, IL 62206-2129",38.55624419999999,-90.1708388,Cahokia Public Library District,140 CAHOKIA PARK DR,Yes,Yes,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0
+A.B. Safford Memorial Library,"1609 Washington Avenue Cairo, IL 62914-0151",37.00307189999999,-89.1737619,Cairo Public Library,"1609 Washington Ave, Cairo, IL 62914",Yes,Yes,25.0,25.0,20.0,20.0,25.0,25.0,23.333333333333332,23.333333333333332
+Calumet City Public Library,"660 Manistee Avenue Calumet City, IL 60409-3906",41.6168349,-87.55588569999999,,,,,,,,,,,,
+Calumet Park Public Library,"1500 West 127th Street Calumet Park, IL 60827-6008",41.6632557,-87.658716,,,,,,,,,,,,
+Camargo Township District Library,"14 North Main Street Villa Grove, IL 61956-1517",39.8625668,-88.1618041,,,,,,,,,,,,
+Cambridge Public Library District,"212 West Center Street Cambridge, IL 61238-1239",41.3030792,-90.195714,Cambridge Public Library District,"212 W. Center Str. Cambridge, IL  61238",Yes,Yes,51.0,45.0,51.0,50.0,51.0,50.0,51.0,48.333333333333336
+Camp Point Public Library District,"206 East State Street Camp Point, IL 62320-0377",40.0422209,-91.0641133,,,,,,,,,,,,
+Carbondale Public Library,"405 West Main Street Carbondale, IL 62901-2903",37.7266098,-89.22063440000001,,,,,,,,,,,,
+Carlinville Public Library,"510 North Broad Street Carlinville, IL 62626-0017",39.2858741,-89.8825888,,,,,,,,,,,,
+Carlock Public Library District,"202 E Washington Street Carlock, IL 61725",40.5824905,-89.13176039999999,,,,,,,,,,,,
+Carmi Public Library,"103 Slocumb Street Carmi, IL 62821-1663",38.0869162,-88.16439489999999,Carmi Public Library,103 Slocumb St.,Yes,Yes,215.0,51.0,234.0,52.0,235.0,50.0,228.0,51.0
+Carnegie-Schuyler Library,"303 East Second Street Pana, IL 62557-1440",39.3889311,-89.0800809,,,,,,,,,,,,
+Carol Stream Public Library,"616 Hiawatha Drive Carol Stream, IL 60188-1634",41.9189684,-88.12997759999999,Carol Stream Public Library,"616 Hiawatha Drive, Carol Stream, 60188",Yes,Yes,102.0,84.0,95.0,90.0,89.0,75.0,95.33333333333333,83.0
+Carrier Mills-Stonefort Public Library District,"109 Oak Street Carrier Mills, IL 62917-0338",37.6840313,-88.63427399999999,,,,,,,,,,,,
+Carrollton Public Library,"509 South Main Street Carrollton, IL 62016-1251",39.3006544,-90.4079898,,,,,,,,,,,,
+Carthage Public Library District,"500 Wabash Avenue Carthage, IL 62321-1360",40.4121647,-91.1360902,Carthage Public Library District,500 Wabash Ave.    Carthage,Yes,Yes,80.0,24.0,66.0,24.0,74.0,24.0,73.33333333333333,24.0
+Cary Area Public Library District,"1606 Three Oaks Road Cary, IL 60013-1637",42.2209605,-88.23075399999999,Cary Area Public Library District,"1606 Three Oaks Road, Cary, IL 60013",Yes,Yes,111.0,98.0,84.0,100.0,120.0,100.0,105.0,99.33333333333333
+Case-Halstead Public Library,"550 Sixth Street Carlyle, IL 62231-1927",38.6105157,-89.36457519999999,,,,,,,,,,,,
+Casey Township Library,"307 East Main Street Casey, IL 62420-1618",39.3001768,-87.98880679999999,,,,,,,,,,,,
+Caseyville Public Library District,"419 South Second St. Caseyville, IL 62232",38.6369476,-90.0302059,Caseyville Public Library District,"419 South Second Street, Caseyville, IL 62232",Yes,Yes,117.0,44.0,112.0,36.0,115.0,44.0,114.66666666666667,41.333333333333336
+Catlin Public Library District,"101 Mapleleaf Drive Catlin, IL 61817-9628",40.0660259,-87.7142736,,,,,,,,,,,,
+Central Citizens' Library District,"1134 East 3100 North Road Clifton, IL 60927-7088",40.9596624,-87.9173919,Central Citizens' Library District,1134 E. 3100 North Road Clifton IL 60927,Yes,Yes,0.0,,,,,,0.0,
+Central Public Library District,"701 Oak Street A Evansville, IL 62242-1829",38.0916359,-89.9345929,Central Public Library District,"701 Oak Street    Evansville, Illinois 62242",No,Yes,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0
+Centralia Regional Library District,"515 East Broadway Avenue Centralia, IL 62801-3256",38.5260638,-89.12932130000002,,,,,,,,,,,,
+Chadwick Public Library District,"110 Main Street Chadwick, IL 61014-0416",42.0128328,-89.89116349999999,Chadwick Public Library District,"110 Main Street, Chadwick, IL 61014",Yes,Yes,71.0,23.0,79.0,31.0,,,75.0,27.0
+Champaign Public Library(Primary Building),"200 West Green Street Champaign, IL 61820-5139",40.1113222,-88.2460423,,,,,,,,,,,,
+Douglass Branch Library,"504 East Grove Street Champaign, IL 61820-3239",40.12338159999999,-88.23147490000001,Champaign Public Library,"504 E. Grove St., Champaign, IL 61820",Yes,Yes,194.0,178.0,186.0,184.0,180.0,183.0,186.66666666666666,181.66666666666666
+Charles B. Phillips Public Library District,"6 North Jackson Street Newark, IL 60541-0156",41.5375863,-88.58200830000001,Charles B. Phillips Public Library District,"6 N Jackson Street, Newark IL 60541",Yes,Yes,,,,,,,,
+Charleston Carnegie Public Library,"712 Sixth St. Charleston, IL 61920",39.4933278,-88.1758995,Charleston Carnegie Public Library,"712 6th St. Charleston, IL 61920",Yes,Yes,17.0,17.0,18.0,17.0,17.0,15.0,17.333333333333332,16.333333333333332
+Chatham Area Public Library District,"600 East Spruce Street Chatham, IL 62629-1631",39.6718232,-89.69755789999999,Chatham Area Public Library,"600 E. Spruce St., Chatham, IL  62629",Yes,Yes,45.0,11.0,51.0,11.0,47.0,12.0,47.666666666666664,11.333333333333334
+Baltz Library of Chatsworth Township,"501 East School Street Chatsworth, IL 60921-0638",40.7495126,-88.2896391,,,,,,,,,,,,
+Cheney's Grove Township Library,"204 South State Street Saybrook, IL 61770-7539",40.4257972,-88.5290739,Cheney's Grove Township Library,"204 South State Street, P.O. Box 58, Saybrook, IL 61770",Yes,Yes,,,23.0,13.0,,,23.0,13.0
+Chenoa Public Library District,"230 South Green Street Chenoa, IL 61726-1107",40.7429932,-88.7209745,,,,,,,,,,,,
+Cherry Valley Public Library District,"755 East State Street Cherry Valley, IL 61016-9699",42.235486,-88.9447589,Cherry Valley District Public Library,755 East State Street Cherry Valley IL 61016,Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Chester Public Library,"733 State Street Chester, IL 62233-1637",37.9062565,-89.8266869,,,,,,,,,,,,
+Chicago Heights Public Library,"25 West 15th Street Chicago Heights, IL 60411-3455",41.5046055,-87.6416649,Chicago Heights Public Library,25 W 15th Street Chicago Heights IL 60411,Yes,Yes,87.0,88.0,85.0,91.0,92.0,94.0,88.0,91.0
+Harold Washington Library Center,"400 South State Street Chicago, IL 60605-1203",41.876515,-87.62823999999999,,,,,,,,,,,,
+Albany Park Branch,"5150 North Kimball Avenue Chicago, IL 60625",41.9755817,-87.71373899999999,,,,,,,,,,,,
+Altgeld Branch,"13281South Corliss Avenue Chicago, IL 60827-1400",41.653728,-87.602083,,,,,,,,,,,,
+Archer Heights Branch,"5055 South Archer Avenue Chicago, IL 60632",41.8008995,-87.7266121,,,,,,,,,,,,
+Austin Branch,"5615 West Race Avenue Chicago, IL 60644",41.8890349,-87.7658398,,,,,,,,,,,,
+Austin-Irving Branch,"6100 West Irving Park Road Chicago, IL 60634",41.9531389,-87.7795881,,,,,,,,,,,,
+Avalon Branch,"8148 South Stony Island Avenue Chicago, IL 60617",41.7463833,-87.5863463,,,,,,,,,,,,
+Back of the Yards Branch,"2111 West 47th Street Chicago, IL 60609",41.8083131,-87.6777352,,,,,,,,,,,,
+Bessie Coleman Branch,"731 East 63rd Street Chicago, IL 60637",41.7801841,-87.60683499999999,,,,,,,,,,,,
+Beverly Branch,"1962 West 95th Street Chicago, IL 60643-1131",41.7214413,-87.6722989,,,,,,,,,,,,
+Bezazian Branch,"1226 West Ainslie Street Chicago, IL 60640",41.97169969999999,-87.6606925,,,,,,,,,,,,
+Blackstone Branch,"4904 South Lake Park Avenue Chicago, IL 60615",41.8058373,-87.59034059999999,,,,,,,,,,,,
+Brainerd Branch,"1350 West 89th Street Chicago, IL 60620",41.7325406,-87.6576891,,,,,,,,,,,,
+Brighton Park Branch,"4314 South Archer Avenue Chicago, IL 60632",41.815031,-87.7031361,,,,,,,,,,,,
+Bucktown/Wicker Park Branch Library,"1701 North Milwaukee Avenue Chicago, IL 60647",41.9125362,-87.6803413,,,,,,,,,,,,
+Budlong Woods Branch,"5630 North Lincoln Avenue Chicago, IL 60659",41.9833393,-87.696373,,,,,,,,,,,,
+Canaryville Branch,"642 West 43rd Street Chicago, IL 60609",41.8164872,-87.64262,,,,,,,,,,,,
+Chicago Bee Branch,"3647 South State Street Chicago, IL 60609",41.8279848,-87.6260807,,,,,,,,,,,,
+Chicago Lawn Branch,"6120 South Kedzie Avenue Chicago, IL 60629",41.7818792,-87.70352109999999,,,,,,,,,,,,
+Chinatown Branch,"2353 South Wentworth Chicago, IL 60616",41.8495354,-87.63172060000001,,,,,,,,,,,,
+Clearing Branch,"6423 West 63rd Place Chicago, IL 60638",41.7763934,-87.7824053,,,,,,,,,,,,
+Douglass Branch,"3353 West 13th Street Chicago, IL 60623",41.86436459999999,-87.71005869999999,,,,,,,,,,,,
+Dunning Branch,"7455 West Cornelia Avenue Chicago, IL 60634-3458",41.9431547,-87.8139051,,,,,,,,,,,,
+Edgebrook Branch,"5331 West Devon Avenue Chicago, IL 60646",41.9971205,-87.761957,,,,,,,,,,,,
+Edgewater Branch,"6000 North Broadway Street Chicago, IL 60660",41.9912184,-87.660547,,,,,,,,,,,,
+Gage Park Branch,"2807 West 55th Street Chicago, IL 60632",41.7934419,-87.6941758,,,,,,,,,,,,
+Galewood-Mont Clare Branch,"6871 West Belden Avenue Chicago, IL 60707",41.920796,-87.7970441,,,,,,,,,,,,
+Garfield Ridge Branch,"6348 South Archer Avenue Chicago, IL 60638",41.7929496,-87.7802842,,,,,,,,,,,,
+Greater Grand Crossing Branch,"1000 East 73rd Street Chicago, IL 60619-3401",41.7625289,-87.6003151,,,,,,,,,,,,
+Hall Branch,"4801 South Michigan Avenue Chicago, IL 60615",41.8071679,-87.6222372,,,,,,,,,,,,
+Hegewisch Branch,"3048 East 130th Street Chicago, IL 60633",41.6594004,-87.5487406,,,,,,,,,,,,
+Jefferson Park Branch,"5363 West Lawrence Avenue Chicago, IL 60630",41.9673629,-87.7619955,,,,,,,,,,,,
+Jeffery Manor Branch,"2401 East 100th Street Chicago, IL 60617",41.713212,-87.565501,,,,,,,,,,,,
+John Merlo Branch,"CLOSED FOR RENOVATION UNTIL 2020 Chicago, IL 60657",41.9403795,-87.65318049999999,,,,,,,,,,,,
+Kelly Branch,"6151 South Normal Boulevard Chicago, IL 60621",41.7824058,-87.63733889999999,,,,,,,,,,,,
+Legler Branch,"115 South Pulaski Road Chicago, IL 60624",41.8793094,-87.7252354,,,,,,,,,,,,
+Lincoln Belmont Branch,"1659 West Melrose Street Chicago, IL 60657",41.9403553,-87.6708361,,,,,,,,,,,,
+Lincoln Park Branch,"1150 West Fullerton Avenue Chicago, IL 60614",41.925439,-87.6579349,,,,,,,,,,,,
+Little Italy Branch,"1336 West Taylor Street Chicago, IL 60607-4754",41.8694861,-87.6605699,,,,,,,,,,,,
+Little Village Branch,"2311 South Kedzie Avenue Chicago, IL 60623-3328",41.8497176,-87.7048684,,,,,,,,,,,,
+Logan Square Branch,"3030 West Fullerton Avenue Chicago, IL 60647",41.9250976,-87.70346260000001,,,,,,,,,,,,
+Mabel Manning Branch,"6 South Hoyne Avenue Chicago, IL 60612",41.8809748,-87.67935179999999,,,,,,,,,,,,
+"Martin Luther King, Jr. Branch","3436 South King Drive Chicago, IL 60616",41.8318094,-87.61778939999999,,,,,,,,,,,,
+Mayfair Branch,"4400 West Lawrence Avenue Chicago, IL 60630",41.9683285,-87.7381147,,,,,,,,,,,,
+McKinley Park Branch,"1915 West 35th Street Chicago, IL 60609",41.8301569,-87.6736007,,,,,,,,,,,,
+Mount Greenwood Branch,"11010 South Kedzie Avenue Chicago, IL 60655",41.6931021,-87.70122169999999,,,,,,,,,,,,
+Near North Branch,"310 West Division Street Chicago, IL 60610",41.9041687,-87.63660639999999,,,,,,,,,,,,
+North Austin Branch,"5724 West North Avenue Chicago, IL 60639",41.9096005,-87.76887119999999,,,,,,,,,,,,
+North Pulaski Branch,"4300 West North Avenue Chicago, IL 60639",41.9102117,-87.73402879999999,,,,,,,,,,,,
+Northtown Branch,"6435 North California Avenue Chicago, IL 60645",41.9988218,-87.69948029999999,,,,,,,,,,,,
+Oriole Park Branch,"7454 West Balmoral Avenue Chicago, IL 60656",41.9783069,-87.8139051,,,,,,,,,,,,
+Popular Library at Water Works Branch,"163 East Pearson Street Chicago, IL 60611-2162",41.8972773,-87.62354169999999,,,,,,,,,,,,
+Portage-Cragin Branch,"5108 West Belmont Avenue Chicago, IL 60641",41.9389294,-87.75504219999999,,,,,,,,,,,,
+Pullman Branch,"11001 South Indiana Avenue Chicago, IL 60628",41.6943932,-87.61790529999999,,,,,,,,,,,,
+Richard J. Daley Branch,"3400 South Halsted Street Chicago, IL 60608",41.8325552,-87.6464745,,,,,,,,,,,,
+Richard M. Daley - West Humboldt Branch,"733 North Kedzie Avenue Chicago, IL 60612-1015",41.8948696,-87.7060999,,,,,,,,,,,,
+Roden Branch,"6083 North Northwest Highway Chicago, IL 60631",41.9921166,-87.7979695,,,,,,,,,,,,
+Rogers Park Branch,"6907 North Clark Street Chicago, IL 60626",42.0070817,-87.673177,,,,,,,,,,,,
+Roosevelt Branch,"1101 West Taylor Chicago, IL 60607",41.8692746,-87.65449079999999,,,,,,,,,,,,
+Rudy Lozano Branch,"1805 South Loomis Street Chicago, IL 60608",41.8575241,-87.66096329999999,,,,,,,,,,,,
+Scottsdale Branch,"4101 West 79th Street Chicago, IL 60652",41.74917019999999,-87.7245458,,,,,,,,,,,,
+Sherman Park Branch,"5440 South Racine Avenue Chicago, IL 60609",41.7948272,-87.6551266,,,,,,,,,,,,
+South Chicago Branch,"9055 South Houston Avenue Chicago, IL 60617",41.73036949999999,-87.5495131,,,,,,,,,,,,
+South Shore Branch,"CLOSED FOR RENOVATIONS UNTIL 2020 Chicago, IL 60649",41.7597921,-87.56430399999999,,,,,,,,,,,,
+Sulzer Regional Library,"4455 North Lincoln Avenue Chicago, IL 60625",41.9627705,-87.6843827,,,,,,,,,,,,
+Thurgood Marshall Branch,"7506 South Racine Avenue Chicago, IL 60620",41.7573854,-87.65433660000001,,,,,,,,,,,,
+Toman Branch,"2708 South Pulaski Road Chicago, IL 60623",41.8420934,-87.7247728,,,,,,,,,,,,
+Uptown Branch,"929 West Buena Avenue Chicago, IL 60613",41.9581389,-87.654325,,,,,,,,,,,,
+Vodak East Side Branch,"3710 East 106th Street Chicago, IL 60617",41.7029917,-87.5337503,,,,,,,,,,,,
+Walker Branch,"11071 South Hoyne Avenue Chicago, IL 60643",41.6921972,-87.6737543,,,,,,,,,,,,
+West Belmont Branch,"3104 North Narragansett Avenue Chicago, IL 60634",41.9367398,-87.78624789999999,,,,,,,,,,,,
+West Chicago Avenue Branch,"4856 West Chicago Avenue Chicago, IL 60651",41.8953547,-87.74799929999999,,,,,,,,,,,,
+West Englewood Branch,"1745 West 63rd Street Chicago, IL 60636",41.7790817,-87.66841629999999,,,,,,,,,,,,
+West Lawn Branch,"4020 West 63rd Street Chicago, IL 60629",41.7789374,-87.7236109,,,,,,,,,,,,
+West Loop Branch,"122 North Aberdeen Street Chicago, IL 60607-2004",41.8837655,-87.6547983,,,,,,,,,,,,
+West Pullman Branch,"830 West 119th Street Chicago, IL 60643",41.6780255,-87.6431211,,,,,,,,,,,,
+West Town Branch,"1625 West Chicago Avenue Chicago, IL 60622-5127",41.8959176,-87.66834709999999,,,,,,,,,,,,
+Woodson Regional Library,"9525 South Halsted Street Chicago, IL 60628",41.7209434,-87.6427837,,,,,,,,,,,,
+Wrightwood-Ashburn Branch,"8530 South Kedzie Avenue Chicago, IL 60652",41.7376808,-87.7025587,,,,,,,,,,,,
+Chicago Ridge Public Library,"10400 Oxford Avenue Chicago Ridge, IL 60415-1507",41.703226,-87.77779369999999,Chicago Ridge Public Library,"10400 Oxford Avenue Chicago Ridge, IL 60415",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Chillicothe Public Library District,"430 North Bradley Avenue Chillicothe, IL 61523-1920",40.9144444,-89.49983370000001,,,,,,,,,,,,
+Chrisman Public Library,"108 North Illinois Street Chrisman, IL 61924-1001",39.803559,-87.6793399,Chrisman Public Library,"108 N Illinois St, Chrisman, IL  61924",No,Yes,92.0,33.0,92.0,35.0,92.0,33.0,92.0,33.666666666666664
+Christopher Public Library,"202 East Market Street Christopher, IL 62822-1759",37.9723493,-89.05222649999999,,,,,,,,,,,,
+Cicero Public Library,"5225 West Cermak Road Cicero, IL 60804-2815",41.8507738,-87.75525050000002,Cicero Public Library,5225 W. Cermak Rd.,Yes,Yes,140.0,20.0,120.0,18.0,135.0,24.0,131.66666666666666,20.666666666666668
+Cissna Park Community Library District,"511 North Second Street Cissna Park, IL 60924-0254",40.57076720000001,-87.8920984,,,,,,,,,,,,
+Clarendon Hills Public Library,"7 North Prospect Avenue Clarendon Hills, IL 60514-1227",41.7981799,-87.95450129999999,Clarendon Hills Public Library,"7 N Prospect Ave, Clarendon Hills, IL 60514",Yes,Yes,90.0,91.0,93.0,94.0,94.0,95.0,92.33333333333333,93.33333333333333
+Clayton Public Library District,"211 East Main Street Clayton, IL 62324-1412",40.0308996,-90.9561226,,,,,,,,,,,,
+Clifton Public Library,"150 East Fourth Avenue Clifton, IL 60927-0452",40.9337227,-87.93422710000002,,,,,,,,,,,,
+Clinton Township Public Library,"110 South Elm Street Waterman, IL 60556-0299",41.7690407,-88.7736458,,,,,,,,,,,,
+Clover Public Library District,"440 N. Division Street Woodhull, IL 61490-0369",41.1805662,-90.3156177,,,,,,,,,,,,
+Coal City Public Library District,"85 North Garfield Street Coal City, IL 60416-1614",41.2883297,-88.2810655,,,,,,,,,,,,
+Colchester District Library,"203 Macomb Street Colchester, IL 62326-0237",40.4264272,-90.791936,,,,,,,,,,,,
+Colona District Public Library,"911 First Street Colona, IL 61241-9750",41.4688902,-90.3582634,Colona District Public Library,"911 1st Street, Colona, IL 61241",Yes,Yes,191.0,193.0,177.0,193.0,197.0,200.0,188.33333333333334,195.33333333333334
+Columbia Public Library,"106 North Metter Avenue Columbia, IL 62236-2228",38.4441561,-90.199046,Columbia Public Library,106 N. Metter,Yes,Yes,,,103.0,10.0,,,103.0,10.0
+Cook Memorial Public Library District,"413 North Milwaukee Avenue Libertyville, IL 60048-2247",42.28740140000001,-87.9558412,,,,,,,,,,,,
+Cook Memorial Public Library District,"701 Aspen Drive Vernon Hills, IL 60061-2894",42.23897909999999,-87.9693135,,,,,,,,,,,,
+Cordova District Library,"402 Main Avenue Cordova, IL 61242-7752",41.6798519,-90.3253215,Cordova District Library,"402 Main Ave, Cordova, IL 61242",Yes,Yes,,,95.0,94.0,,,95.0,94.0
+Cortland Community Library,"63 S. Somonauk Rd. Cortland, IL 60112-0486",41.9205045,-88.68905339999999,,,,,,,,,,,,
+Coulterville Public Library,"103 South Fourth Street Coulterville, IL 62237-0373",38.1861164,-89.6039909,,,,,,,,,,,,
+Crab Orchard Public Library District,"20012 Crab Orchard Road Marion, IL 62959-7392",37.7306171,-88.7914912,,,,,,,,,,,,
+Creston-Dement Public Library District,"107 South Main Street Creston, IL 60113-0193",41.9306961,-88.9650609,Creston-Dement Public Library,"107 S. Main St. Creston, Illinois 60113",Yes,Yes,92.0,30.0,92.0,30.0,92.0,30.0,92.0,30.0
+Crestwood Public Library District,"4955 West 135th Street Crestwood, IL 60418-1410",41.6466321,-87.7442173,,,,,,,,,,,,
+Crete Public Library District,"1177 North Main Street Crete, IL 60417-1945",41.4501645,-87.63074619999999,,,,,,,,,,,,
+Creve Coeur Public Library District,"311 North Highland Street Creve Coeur, IL 61610-3136",40.6491791,-89.59863589999999,,,,,,,,,,,,
+Crystal Lake Public Library,"126 Paddock Street Crystal Lake, IL 60014-6126",42.2395568,-88.3252067,Crystal Lake Public Library,"126 W. Paddock, Crystal Lake, IL 60014",Yes,Yes,134.0,130.0,131.0,130.0,131.0,129.0,132.0,129.66666666666666
+Cutler Community Center,"409 South Main Street Cutler, IL 62238-0057",38.0296362,-89.5659095,,,,,,,,,,,,
+Danvers Township Library,"117 East Exchange Street Danvers, IL 61732-0376",40.5281734,-89.1769051,,,,,,,,,,,,
+Danville Public Library,"319 N. Vermilion St. Danville, IL 61832-4769",40.1298948,-87.6289781,Danville Public Library,319 N Vermilion St,Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Daugherty Public Library District,"220 South Fifth Street Dupo, IL 62239-1318",38.5157311,-90.20699220000002,Daugherty Public Library District,"220 South Fifth Street, Dupo, IL  62239",Yes,Yes,201.0,20.0,200.0,20.0,201.0,20.0,200.66666666666666,20.0
+Decatur Public Library,"130 North Franklin Street Decatur, IL 62523-1327",39.842116,-88.9523227,Decatur Public Library,"130 N. Franklin St., Decatur, IL",Yes,Yes,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0
+Deer Creek District Library,"205 East First Avenue Deer Creek, IL 61733-0347",40.6278551,-89.3298703,,,,,,,,,,,,
+Deerfield Public Library,"920 Waukegan Road Deerfield, IL 60015",42.16947200000001,-87.8468946,Deerfield Public Library,920 WAUKEGAN RD,Yes,Yes,66.0,43.0,75.0,42.0,91.0,93.0,77.33333333333333,59.333333333333336
+DeKalb Public Library,"309 Oak Street DeKalb, IL 60115-3369",41.9321259,-88.749738,DeKalb Public Library,"309 Oak St. DeKalb, IL. 60115",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Des Plaines Public Library,"1501 Ellinwood Street Des Plaines, IL 60016-4553",42.0404802,-87.88726799999999,Des Plaines Public Library,"1501 Ellinwood St, Des Plaines, 60016",Yes,Yes,239.0,259.0,257.0,249.0,274.0,260.0,256.6666666666667,256.0
+Divernon Township Library,"221 South Second Street Divernon, IL 62530-0140",39.565233,-89.6587504,Divernon Township Library,"221 South Second St, PO Box 140, Divernon, IL 62530",Yes,Yes,59.0,18.0,59.0,18.0,59.0,18.0,59.0,18.0
+Dixmoor Public Library District,"William Leonard Public Library District Robbins , IL 60472-1920",41.6414059,-87.709037,,,,,,,,,,,,
+Dixon Public Library,"221 South Hennepin Avenue Dixon, IL 61021-3042",41.8416495,-89.483558,,,,,,,,,,,,
+Dodge Memorial Public Library District,"22440 Railroad Street Olive Branch, IL 62969-0065",37.1690254,-89.3514105,,,,,,,,,,,,
+Dolton Public Library District,"14037 Lincoln Avenue Dolton, IL 60419",41.6403723,-87.60853240000002,,,,,,,,,,,,
+Dominy Memorial Library,"201 S Third St Fairbury, IL 61739",40.7456278,-88.51282549999999,,,,,,,,,,,,
+Dongola Public Library District,"114 North East Front Street Dongola, IL 62926",37.3616103,-89.16477719999999,,,,,,,,,,,,
+Downers Grove Public Library,"1050 Curtiss Street Downers Grove, IL 60515-4606",41.7940894,-88.0114649,Downers Grove Public Library,"1050 Curtiss St., Downers Grove, IL, 60515",Yes,Yes,102.0,22.0,87.0,22.0,105.0,22.0,98.0,22.0
+Doyle Public Library District,"109 South O'Bannon Street Raymond, IL 62560-0544",39.3207631,-89.5749069,Doyle Public Library District,"109 South Obannon Street, Raymond Illinois, 62560",Yes,Yes,56.0,5.0,56.0,3.0,56.0,5.0,56.0,4.333333333333333
+Dry Point Township Library,"PO Box 44 Cowden, IL 62422-0044",39.2483753,-88.8622895,,,,,,,,,,,,
+Dunlap Public Library District,"302 South First Street Dunlap, IL 61525-9777",40.85750650000001,-89.6731204,,,,,,,,,,,,
+DuQuoin Public Library,"28 South Washington Street DuQuoin, IL 62832-1312",38.010609,-89.2357634,Du Quoin Public Library,"28 S. Washington Street, Du Quoin, IL 62832",Yes,Yes,93.0,44.0,90.0,41.0,92.0,43.0,91.66666666666667,42.666666666666664
+Earlville Public Library District,"205 Winthrop Street Earlville, IL 60518-0420",41.5890394,-88.9229575,Earlville Library District,205 W. Winthrop St. #420,Yes,Yes,14.0,13.0,24.0,13.0,22.0,13.0,20.0,13.0
+East Alton Public Library District,"250 Washington Avenue East Alton, IL 62024-1547",38.87804029999999,-90.1031922,,,,,,,,,,,,
+East Dubuque District Library,"122 Wisconsin Avenue East Dubuque, IL 61025-1325",42.4922569,-90.6422955,,,,,,,,,,,,
+Thornton Public Library,"115 E. Margaret St. Thornton, IL 60476",41.5679259,-87.6115835,,,,,,,,,,,,
+Louis E. Woodworth Public Library Building,"745 16th Ave East Moline, IL 61244-2122",41.5153094,-90.4429039,,,,,,,,,,,,
+East Saint Louis Public Library,"5300 State Street East Saint Louis, IL 62203-9998",38.605875,-90.098961,,,,,,,,,,,,
+Edward Chipman Public Library,"126 North Locust Street Momence, IL 60954-1508",41.1639576,-87.66090659999999,Edward Chipman Public Library,"126 N Locust St, Momence IL 60954",Yes,Yes,78.0,26.0,90.0,26.0,90.0,26.0,86.0,26.0
+Edwards River Public Library District,"412 E Main Street Aledo, IL 61231-1460",41.2013472,-90.7449269,,,,,,,,,,,,
+Edwardsville Public Library,"112 South Kansas Street Edwardsville, IL 62025-1708",38.8111389,-89.9538547,Edwardsville Public Library,"112 S. Kansas Street, Edwardsville, IL 62025",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Suzette Brumleve Memorial,"200 North Third Street Effingham, IL 62401-3416",39.1222578,-88.5404441,Effingham Public Library,"200 N. 3rd Street, Effingham, IL 62401",Yes,Yes,102.0,101.0,103.0,99.0,105.0,102.0,103.33333333333333,100.66666666666667
+Eisenhower Public Library District,"4613 North Oketo Avenue Harwood Heights, IL 60706-4690",41.9640192,-87.81160100000001,Eisenhower Public Library District,4613 N Oketo Ave Harwood Heights,,,,,,,,,,
+El Paso District Library,"149 West First Street El Paso, IL 61738-1012",40.7396177,-89.0187174,,,,,,,,,,,,
+Ela Area Public Library District,"275 Mohawk Trail Lake Zurich, IL 60047",42.19487669999999,-88.08849,Ela Area Public Library District,"275 Mohawk Trail, Lake Zurich, IL 60047",Yes,Yes,20.0,5.0,20.0,5.0,20.0,5.0,20.0,5.0
+Eldorado Memorial Public Library District,"1001 Grant Street Eldorado, IL 62930-0426",37.8147242,-88.4357315,,,,,,,,,,,,
+Elizabeth Titus Memorial Library,"2 West Water Street Sullivan, IL 61951",39.5976076,-88.60792289999999,,,,,,,,,,,,
+Elizabeth Township Public Library,"210 East Myrtle Street Elizabeth, IL 61028-0243",42.3178287,-90.2218831,,,,,,,,,,,,
+Elk Grove Village Public Library,"1001 Wellington Avenue Elk Grove Village, IL 60007-3391",42.0014072,-88.00802399999999,,,,,,,,,,,,
+Elkhart Public Library District,"121 East Bohan Street Elkhart, IL 62634-0170",40.0213107,-89.4813616,,,,,,,,,,,,
+Ella Johnson Memorial Public Library District,"109 South State Street Hampshire, IL 60140-0429",42.0988534,-88.52971610000002,,,,,,,,,,,,
+Elmhurst Public Library,"125 South Prospect Avenue Elmhurst, IL 60126-3245",41.8983665,-87.9443558,Elmhurst Public Library,"125 S. Prospect Ave Elmhurst, IL",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Elmwood Park Public Library,"1 Conti Parkway Elmwood Park, IL 60707-4506",41.9261695,-87.8172972,,,,,,,,,,,,
+Elwood Library District,"104 North State Street Ridge Farm, IL 61870-0349",39.8966855,-87.6520629,,,,,,,,,,,,
+Erie Public Library District,"802 8th AV  Erie, IL 61250",41.6556728,-90.0787283,Erie Public Library District,"802 8th Avenue,  Erie. IL  61250",Yes,Yes,115.0,18.0,110.0,16.0,,,112.5,17.0
+Eureka Public Library District,"202 South Main Street Eureka, IL 61530-1347",40.72003369999999,-89.27326029999999,,,,,,,,,,,,
+Evans Public Library District,"215 South Fifth Street Vandalia, IL 62471-2703",38.9602457,-89.0964808,,,,,,,,,,,,
+Evanston Public Library,"1703 Orrington Avenue Evanston, IL 60201-3886",42.0484014,-87.68022359999999,,,,,,,,,,,,
+Robert Crown Branch,"1801 Main Street Evanston, IL 60201",42.0339648,-87.6960153,Evanston Public Library,"1801 Main Street, Evanston, IL 60602",Yes,Yes,111.0,227.0,217.0,219.0,166.0,206.0,164.66666666666666,217.33333333333334
+Evansville Public Library,"602 Public Street Evansville, IL 62242-0299",38.0907892,-89.93635909999999,Evansville Public Library,"602 Public St. Evansville, IL 62242",Yes,Yes,7.0,1.0,7.0,1.0,7.0,1.0,7.0,1.0
+Evergreen Park Public Library,"9400 South Troy Avenue Evergreen Park, IL 60805-2330",41.7222547,-87.7010188,Evergreen Park Public Library,9400 S. Troy Avenue,Yes,Yes,55.0,34.0,53.0,35.0,262.0,34.0,123.33333333333333,34.333333333333336
+Fairfield Public Library,"300 South East Second Street Fairfield, IL 62837-2127",38.3771366,-88.3586129,,,,,,,,,,,,
+Fairview Heights Public Library,"10017 Bunkum Road Fairview Heights, IL 62208-1703",38.5981597,-90.01059359999999,Fairview Heights Public Library,10017 Bunkum Rd,Yes,Yes,113.0,35.0,113.0,35.0,112.0,35.0,112.66666666666667,35.0
+Farmer City Public Library,"109 East Green Street Farmer City, IL 61842-0201",40.2434457,-88.6418445,,,,,,,,,,,,
+Farmersville-Waggoner Public Library District,"210 South Cleveland Street Farmersville, IL 62533-0012",39.4419603,-89.65182229999999,,,,,,,,,,,,
+Farmington Area Library District,"411 North Lightfoot Road Farmington, IL 61531-9601",40.6951778,-89.9875397,Farmington Area Public Library District,"411 N Lightfoot Rd.  Farmington, IL 61531",Yes,Yes,52.0,50.0,58.0,45.0,51.0,50.0,53.666666666666664,48.333333333333336
+Filger Public Library,"261 East Fifth Street Minonk, IL 61760-1303",40.901666,-89.03165399999999,,,,,,,,,,,,
+Flagg-Rochelle Public Library District,"619 Fourth Avenue Rochelle, IL 61068-1512",41.9231299,-89.0684254,,,,,,,,,,,,
+Flanagan Public Library District,"Post Office Box 494 Flanagan, IL 61740-0494",40.878089,-88.8611818,,,,,,,,,,,,
+Flewellin Memorial Library,"108 West Comanche Avenue Shabbona, IL 60550-0190",41.7681637,-88.87320509999999,,,,,,,,,,,,
+Flora Public Library,"216 North Main Street Flora, IL 62839-1510",38.6702117,-88.48598319999999,,,,,,,,,,,,
+Flossmoor Public Library,"1000 Sterling Avenue Flossmoor, IL 60422-1253",41.5442257,-87.6788694,,,,,,,,,,,,
+Fondulac Public Library District,"400 Richland Street East Peoria, IL 61611-2461",40.670581,-89.58590699999999,,,,,,,,,,,,
+Forest Park Public Library,"7555 Jackson Boulevard Forest Park, IL 60130-1809",41.8761235,-87.8142891,,,,,,,,,,,,
+Forman Valley Public Library District,"404 1/2 S. Harrison Street Manito, IL 61546-0170",40.4214563,-89.77960069999999,,,,,,,,,,,,
+Forrest Public Library District,"301 West James Street Forrest, IL 61741",40.7534414,-88.41392979999999,Forrest Public Library,301 W James Street Forrest IL 61741,,,,,,,,,,
+Forreston Public Library,"204 First Avenue Forreston, IL 61030-0606",42.1262006,-89.57941819999999,,,,,,,,,,,,
+Forsyth Public Library,"268 South Elwood Street Forsyth, IL 62535-0020",39.9332613,-88.9504479,Forsyth Public Library,"268 S. Elwood St. Forsyth, IL 62535",Yes,Yes,320.0,115.0,320.0,115.0,320.0,114.0,320.0,114.66666666666667
+Fossil Ridge Public Library District,"386 W Kennedy Rd Braidwood, IL 60408 1903",41.26049769999999,-88.2236377,,,,,,,,,,,,
+Fountaindale Public Library District,"300 West Briarcliff Road Bolingbrook, IL 60440-2844",41.69903670000001,-88.07830100000001,Fountaindale Public Library District,"300 W Briarcliff Rd, Bolingbrook, IL 60440",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Four Star Public Library District,"132 West South Street Mendon, IL 62351-0169",40.0885214,-91.2849282,,,,,,,,,,,,
+Fox Lake Public Library District,"255 East Grand Avenue Fox Lake, IL 60020-1697",42.3936555,-88.1607753,,,,,,,,,,,,
+Fox River Grove Memorial Library,"407 Lincoln Avenue Fox River Grove, IL 60021-1406",42.1975604,-88.2203236,Fox River Grove Public Library District,"407 Lincoln Ave, Fox River Grove, IL",Yes,Yes,58.0,12.0,58.0,11.0,60.0,11.0,58.666666666666664,11.333333333333334
+Dundee Library,"555 Barrington Avenue East Dundee, IL 60118-1422",42.1042747,-88.2638406,Fox River Valley Public Library District,"555 Barrington Avenue, East Dundee, IL 60118",Yes,Yes,320.0,47.0,300.0,46.0,320.0,48.0,313.3333333333333,47.0
+Randall Oaks Library,"500 North Randall Road West Dundee, IL 60118-9000",42.108996,-88.3350741,Fox River Valley Public Library district,"500 North Randall Road, West Dundee, IL 60118",Yes,Yes,35.0,24.0,35.0,25.0,35.0,24.0,35.0,24.333333333333332
+Frank Bertetti Benld Public Library,"308 East Central Avenue Benld, IL 62009-1202",39.0928413,-89.8029679,,,,,,,,,,,,
+Frankfort Public Library District,"21119 South Pfeiffer Road Frankfort, IL 60423-8699",41.50589490000001,-87.8280984,Frankfort Public Library District,"21119 S Pfeiffer Rd, Frankfort, IL 60423",Yes,Yes,285.0,28.0,290.0,28.0,276.0,29.0,283.6666666666667,28.333333333333332
+Franklin Grove Public Library,"112 South Elm Street Franklin Grove, IL 61031-0326",41.8400154,-89.2990423,,,,,,,,,,,,
+Franklin Park Public Library District,"10311 Grand Avenue Franklin Park, IL 60131-2225",41.9295787,-87.8828045,Franklin Park Public LIbrary District,"10311 Grand Avenue, Franklin Park, IL 60131",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Freeburg Area Library District,"407 South Belleville Street Freeburg, IL 62243-1595",38.42131639999999,-89.91039239999999,,,,,,,,,,,,
+Freeport Public Library,"100 East Douglas Street Freeport, IL 61032-4116",42.300391,-89.6208241,,,,,,,,,,,,
+Fremont Public Library District,"1170 North Midlothian Road Mundelein, IL 60060-1237",42.2821109,-88.0201948,,,,,,,,,,,,
+Gail Borden Public Library District,"270 North Grove Avenue Elgin, IL 60120-5505",42.0424469,-88.2879985,Gail Borden Public Library,"270 North Grove Avenue, Elgin, IL 60120",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Rakow Branch Library,"2751 West Bowes Road Elgin, IL 60124-8403",42.0062369,-88.3458222,,,,,,,,,,,,
+South Elgin Branch,"127 South McLean Boulevard South Elgin, IL 60177-1822",41.9946758,-88.3150488,,,,,,,,,,,,
+Galatia Public Library District,"217 South Main Cross Street Galatia, IL 62935-0279",37.8391489,-88.61218389999999,Galatia Public Library District,"217 S. Main Cross St., Galatia IL  62939",Yes,Yes,26.0,4.0,24.0,3.0,23.0,3.0,24.333333333333332,3.3333333333333335
+Galena Public Library District,"601 South Bench Street Galena, IL 61036-2322",42.4120403,-90.4318518,,,,,,,,,,,,
+Galesburg Public Library,"40 East Simmons Street Galesburg, IL 61401-4515",40.9460253,-90.3704954,,,,,,,,,,,,
+Galva Public Library District,"120 Northwest Third Avenue Galva, IL 61434-1326",41.1678347,-90.04625469999999,,,,,,,,,,,,
+Geneseo Public Library District,"805 North Chicago Street Geneseo, IL 61254",41.4631313,-90.1447451,,,,,,,,,,,,
+Geneva Public Library District,"227 S. Seventh Street Geneva, IL 60134-2241",41.8860167,-88.31303489999999,,,,,,,,,,,,
+Genoa Public Library District,"240 West Main Street Genoa, IL 60135-1146",42.0973697,-88.6945978,,,,,,,,,,,,
+Georgetown Public Library,"102 West West Street Georgetown, IL 61846-1856",39.9751461,-87.6363365,,,,,,,,,,,,
+Germantown Public Library District,"403 Munster Street Germantown, IL 62245-0244",38.5540477,-89.5388718,,,,,,,,,,,,
+Gillespie Public Library,"201 West Chestnut Street Gillespie, IL 62033-1506",39.1260737,-89.81755609999999,Gillespie Public Library,201 W Chestnut Gillespie,No,Yes,26.0,3.0,26.0,3.0,26.0,3.0,26.0,3.0
+Gilman-Danforth District Library,"715 North Maple Street Gilman, IL 60938-1747",40.7755425,-87.9868369,,,,,,,,,,,,
+Girard Township Library,"201 West Madison Street Girard, IL 62640-1551",39.4451031,-89.77945419999999,,,,,,,,,,,,
+Glen Carbon Centennial Library District,"198 South Main Street Glen Carbon, IL 62034-1419",38.7486856,-89.98388419999999,,,,,,,,,,,,
+Glen Ellyn Public Library,"400 Duane Street Glen Ellyn, IL 60137-4508",41.8756595,-88.07060829999999,Glen Ellyn Public Library,"400 Duane St, Glen Ellyn, IL",Yes,Yes,200.0,200.0,180.0,180.0,200.0,200.0,193.33333333333334,193.33333333333334
+Glencoe Public Library,"320 Park Avenue Glencoe, IL 60022-1597",42.1343278,-87.75830460000002,Glencoe Public Library,"320 Park Ave., Glencoe, IL 60022",Yes,Yes,320.0,270.0,320.0,280.0,320.0,320.0,320.0,290.0
+Glenside Public Library District,"25 East Fullerton Avenue Glendale Heights, IL 60139-2688",41.9167576,-88.0896945,Glenside Public Library District,25 E Fullerton Ave,Yes,Yes,320.0,35.0,320.0,35.0,320.0,35.0,320.0,35.0
+Glenview Public Library,"1930 Glenview Road Glenview, IL 60025-2848",42.0732059,-87.8062624,Glenview Public Library,"1930 Glenview Rd, Glenview, IL 60025",Yes,Yes,46.0,51.0,46.0,49.0,49.0,49.0,47.0,49.666666666666664
+Glenwood-Lynwood Public Library District,"19901 Stony Island Avenue Lynwood, IL 60411-8659",41.5333859,-87.57673520000002,,,,,,,,,,,,
+Golconda Public Library,"126 West Main Street Golconda, IL 62938-0523",37.3674678,-88.48825219999999,,,,,,,,,,,,
+Golden Prairie Public Library District,"Bloomington Public Library Bloomington, IL 61701",40.4765924,-88.9914337,,,,,,,,,,,,
+Goose Creek District Library,"220 North Highway Avenue DeLand, IL 61839-0237",40.1253027,-88.64677119999999,,,,,,,,,,,,
+Grand Prairie of the West Public Library District,"142 W. Jackson Virden, IL 62690",39.5016135,-89.7687547,Grand Prairie of the West Public Library District,"142 West Jackson Street, Virden, IL 62690",Yes,Yes,242.0,191.0,,,,,242.0,191.0
+Grande Prairie Public Library District,"3479 West 183rd Street Hazel Crest, IL 60429-2419",41.5565158,-87.70086479999999,,,,,,,,,,,,
+Grant Park Public Library,"107 West Taylor Street Grant Park, IL 60940",41.2412905,-87.64512549999999,,,,,,,,,,,,
+Graves-Hume Public Library District,"1401 West Main Street Mendota, IL 61342-2500",41.5559427,-89.1207924,,,,,,,,,,,,
+Grayslake Area Public Library District,"100 Library Lane Grayslake, IL 60030-1684",42.3467363,-88.036264,,,,,,,,,,,,
+Augusta Library,"202 Center Street Augusta, IL 62311-0235",40.2307123,-90.9495551,,,,,,,,,,,,
+Bowen Branch,"115 East Fifth Street Bowen, IL 62316-1034",40.2313787,-91.0639075,,,,,,,,,,,,
+Golden Branch,"309 Quincy Street Golden, IL 62339-0087",40.10996249999999,-91.0162208,,,,,,,,,,,,
+Littleton Branch,"110 South Center Street Littleton, IL 61452-5010",40.2336414,-90.61917660000002,,,,,,,,,,,,
+Plymouth Branch,"103 West Main Street Plymouth, IL 62367-0251",40.2915982,-90.9198552,,,,,,,,,,,,
+Green Hills Public Library District,"10331 South Interlochen Drive Palos Hills, IL 60465-1773",41.7030988,-87.8324106,,,,,,,,,,,,
+Greenfield Public Library,"515 Chestnut Street Greenfield, IL 62044-0214",39.34422319999999,-90.2113877,,,,,,,,,,,,
+Greenup Township Public Library,"101 North Franklin Street Greenup, IL 62428-0275",39.2468035,-88.16717609999999,Greenup Township Public Library,"101 N Franklin St, Greenup, IL 62428",Yes,Yes,31.0,28.0,19.0,23.0,33.0,30.0,27.666666666666668,27.0
+Greenville Public Library,"414 West Main Street Greenville, IL 62246",38.8917885,-89.4149312,Greenville Public Library,"414 W Main St, Greenville, IL  62246",No,Yes,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0
+Greig Memorial Library,"110 South Joy Street Oneida, IL 61467-0446",41.0719859,-90.222451,,,,,,,,,,,,
+Gridley Public Library District,"320 Center Street Gridley, IL 61744-9900",40.739448,-88.88036509999999,,,,,,,,,,,,
+Groff Memorial Library,"118 South Middle Street Grayville, IL 62844-1678",38.2568701,-87.9952708,Groff Memorial Public Library & Museum,"118 S. Middle St., Grayville, IL  62844",Yes,Yes,94.0,32.0,94.0,34.0,94.0,32.0,94.0,32.666666666666664
+H.A. Peine District Library,"202 North Main Street Minier, IL 61759-0019",40.4346073,-89.3145778,,,,,,,,,,,,
+Hamilton Public Library,"861 Broadway Street Hamilton, IL 62341-1434",40.3933565,-91.3469276,,,,,,,,,,,,
+Hanover Township Library,"204 Jefferson Street Hanover, IL 61041-0475",42.2564852,-90.2838509,,,,,,,,,,,,
+Harrisburg Public Library District,"2 West Walnut Street Harrisburg, IL 62946-1261",37.7405969,-88.5405952,Harrisburg Public Library District,"2 W Walnut Street, Harrisburg, IL 62946",Yes,Yes,,,92.0,34.0,,,92.0,34.0
+Harristown Public Library District,"Barclay Public Library Warrensburg, IL 62573-0349",39.9293065,-89.0620635,,,,,,,,,,,,
+Hartford Public Library District,"143 West Hawthorne Street Hartford, IL 62048-1020",38.8337812,-90.0980795,Hartford Public Library District,"143 W. Hawthorne St. Hartford, IL 62048",Yes,Yes,320.0,12.0,320.0,12.0,320.0,12.0,320.0,12.0
+Harvard Diggins Library,"900 East McKinley Street Harvard, IL 60033-1800",42.425553,-88.6021529,,,,,,,,,,,,
+Harvey Public Library District,"15441 Turlington Avenue Harvey, IL 60426-3616",41.6085302,-87.6474638,Harvey Public Library District,15441 Turlington Ave,Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Havana Public Library District,"201 West Adams Street Havana, IL 62644-1321",40.2991532,-90.0625975,Havana Public Library District,"201 W. Adams St., Havana, IL 62644",Yes,Yes,320.0,198.0,320.0,320.0,320.0,320.0,320.0,279.3333333333333
+Genealogy & Local History Library,"401 State Street Alton, IL 62002-6137",38.8922811,-90.1881541,,,,,,,,,,,,
+Hayner Library at Alton Square Mall,"132 Alton Square Mall Drive Alton, IL 62002-5917",38.9211491,-90.172592,,,,,,,,,,,,
+Downtown Library,"326 Belle Street Alton, IL 62002-6115",38.8919009,-90.1878859,,,,,,,,,,,,
+Downtown Library,"401 19th Street Rock Island, IL 61201-8124",41.5085285,-90.5728495,,,,,,,,,,,,
+Helen Plum Library,"411 S Main Street Lombard, IL 60148-2633",41.87995799999999,-88.017565,Helen Plum Library,"411 S Main St, Lombard, IL 60148",Yes,Yes,320.0,33.0,320.0,29.0,320.0,35.0,320.0,32.333333333333336
+Henderson County Public Library District,"110 Hill Crest Drive Biggsville, IL 61418-9106",40.8496031,-90.8622261,,,,,,,,,,,,
+Henry C. Adams Memorial Library,"209 West Third Street Prophetstown, IL 61277-1124",41.6712803,-89.93807749999999,,,,,,,,,,,,
+Henry Public Library,"702 Front Street Henry, IL 61537-0183",41.1087523,-89.3562788,,,,,,,,,,,,
+Herrick Township Public Library,"303 North Broadway Street Herrick, IL 62431-1001",39.2238462,-88.98427690000001,,,,,,,,,,,,
+Herrin City Library,"120 North 13th Street Herrin, IL 62948-3233",37.8040037,-89.02487819999999,,,,,,,,,,,,
+Administrative/Central Library,"119 East Main Street Heyworth, IL 61745",40.3138852,-88.97664999999999,,,,,,,,,,,,
+Highland Park Public Library,"494 Laurel Avenue Highland Park, IL 60035-2623",42.1844,-87.79669820000001,Highland Park Public Library,"494 Laurel Ave, Highland Park, IL 60035",Yes,Yes,25.0,25.0,25.0,25.0,25.0,25.0,25.0,25.0
+Highwood Public Library,"102 Highwood Avenue Highwood, IL 60040-1520",42.202256,-87.81083799999999,,,,,,,,,,,,
+Hillsboro Area Public Library District,"420 S Main Hillsboro, IL 62049-1434",39.15810889999999,-89.4937449,,,,,,,,,,,,
+Hillside Public Library,"405 North Hillside Avenue Hillside, IL 60162-1295",41.8771059,-87.90784210000001,Hillside Public Library,"405 N Hillside Ave, Hillside 60162",Yes,Yes,85.0,4.0,222.0,23.0,83.0,5.0,130.0,10.666666666666666
+Hinckley Public Library District,"100 North Maple Street Hinckley, IL 60520-9385",41.769605,-88.6393236,Hinckley Public Library District,"100 Maple St, Hinckley IL 60520",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Hinsdale Public Library,"20 East Maple Street Hinsdale, IL 60521-3432",41.8044359,-87.92865429999999,,,,,,,,,,,,
+Hodgkins Public Library District,"6500 Wenz Avenue Hodgkins, IL 60525-7632",41.7715218,-87.8560304,,,,,,,,,,,,
+Homer Community Library,"500 East Second Street Homer, IL 61849-1149",40.0381885,-87.9519747,,,,,,,,,,,,
+Homer Township Public Library District,"14320 West 151st Street Homer Glen, IL 60491-6776",41.6144059,-87.967495,,,,,,,,,,,,
+Hometown Public Library,"4331 Southwest Highway Hometown, IL 60456-1161",41.7281785,-87.73017089999999,,,,,,,,,,,,
+Homewood Public Library District,"17917 Dixie Highway Homewood, IL 60430-1794",41.5640607,-87.66452819999999,,,,,,,,,,,,
+Hoopeston Public Library District,"110 North Fourth Street Hoopeston, IL 60942-1422",40.4685803,-87.6649329,,,,,,,,,,,,
+Hooppole Library District,"Annawan Alba Township Library Annawan, IL 61234-7607",41.3972573,-89.9045517,,,,,,,,,,,,
+Hope Welty Public Library District,"100 South Madison Street Cerro Gordo, IL 61818-0260",39.884333,-88.7294277,,,,,,,,,,,,
+Hudson Area Public Library District,"104 Pearl Street Hudson, IL 61748-0461",40.6046379,-88.9921968,,,,,,,,,,,,
+Huntley Area Public Library District,"11000 Ruth Road Huntley, IL 60142-6947",42.169657,-88.41172019999999,,,,,,,,,,,,
+Ida Public Library,"320 North State Street Belvidere, IL 61008-3225",42.2616219,-88.84612039999999,,,,,,,,,,,,
+Illinois Prairie District Public Library,"208 East Partridge Street Metamora, IL 61548-0770",40.7912385,-89.3613333,,,,,,,,,,,,
+Benson Branch Library,"420 East Front Street Benson, IL 61516-9664",40.8505783,-89.12034539999999,,,,,,,,,,,,
+Marcella Schneider Branch Library at Germantown Hills,"509 Woodland Knolls Road Germantown Hills, IL 61548-8696",40.7673574,-89.4744023,,,,,,,,,,,,
+Roanoke Branch Library,"123 East Broad Street Roanoke, IL 61561-7547",40.79716579999999,-89.1954063,,,,,,,,,,,,
+Spring Bay Branch Library,"411 Illinois Street East Peoria, IL 61611",40.632954,-89.57584229999999,,,,,,,,,,,,
+Washburn Branch Library,"102 West Magnolia Drive Washburn, IL 61570",40.9205995,-89.2914063,,,,,,,,,,,,
+Illiopolis/Niantic Public Library District,"401 6th Street Illiopolis, IL 62539",39.8535496,-89.2409631,,,,,,,,,,,,
+Indian Prairie Public Library District,"401 Plainfield Road Darien, IL 60561-4207",41.7562775,-87.95530520000001,Indian Prairie Public Library,"401 Plainfield Road, Darien, IL 60561",Yes,Yes,82.0,83.0,87.0,85.0,92.0,79.0,87.0,82.33333333333333
+Indian Trails Public Library District,"355 Schoenbeck Road Wheeling, IL 60090-4467",42.1326831,-87.9451982,,,,,,,,,,,,
+Prospect Heights Branch,"99 East Palatine Road Prospect Heights, IL 60070",42.1091042,-87.891622,Indian Trails Public Library District,"99 East Palatine Road, Suite A",Yes,Yes,181.0,169.0,143.0,149.0,182.0,176.0,168.66666666666666,164.66666666666666
+Itasca Community Library,"500 West Irving Park Road Itasca, IL 60143-2093",41.9708927,-88.0203338,Itasca Community Library,500 W IRVING PARK RD,Yes,Yes,106.0,26.0,105.0,19.0,76.0,30.0,95.66666666666667,25.0
+Jacksonville Public Library,"201 West College Avenue Jacksonville, IL 62650-1814",39.73209720000001,-90.2302558,,,,,,,,,,,,
+Jerseyville Public Library,"105 North Liberty Street Jerseyville, IL 62052-1512",39.1188173,-90.3300974,Jerseyville Public Library,"105 N. Liberty, Jerseyville, IL 62052",Yes,Yes,46.0,52.0,49.0,53.0,45.0,53.0,46.666666666666664,52.666666666666664
+John Mosser Public Library District,"106 West Meek Street Abingdon, IL 61410-1451",40.80212,-90.3991558,John Mosser Public Library District,106 W. Meek Street,Yes,Yes,,,,,,,,
+Johnsburg Public Library District,"3000 North Johnsburg Road Johnsburg, IL 60051-5120",42.3818191,-88.23642,Johnsburg Public Library,"3000 N. Johnsburg Road, Johnsburg, IL 60051",Yes,Yes,320.0,40.0,320.0,38.0,320.0,39.0,320.0,39.0
+Johnston City Public Library,"506 Washington Avenue Johnston City, IL 62951-1651",37.8162397,-88.9268124,Johnston City Public Library,"506 Washington Ave, Johnston City, Il",,,,,,,,,,
+Joliet Public Library,"150 North Ottawa Street Joliet, IL 60432",41.5271353,-88.0823728,,,,,,,,,,,,
+Black Road Branch,"3395 Black Road Joliet, IL 60431-2823",41.5372337,-88.16641419999999,Joliet Public Library,"3395 Black Road, Joliet, 60431",Yes,Yes,116.0,124.0,107.0,17.0,116.0,18.0,113.0,53.0
+Jonesboro Public Library,"412 South Main Street Jonesboro, IL 62952-1415",37.4467834,-89.2681032,,,,,,,,,,,,
+Julia Hull District Library,"100 Library Lane Stillman Valley, IL 61084-8999",42.1072475,-89.1792706,Julia Hull District Library,100 Library Ln. Stillman Valley,Yes,,106.0,81.0,100.0,93.0,102.0,83.0,102.66666666666667,85.66666666666667
+Justice Public Library District,"7641 Oak Grove Avenue Justice, IL 60458-1358",41.7510189,-87.8402835,,,,,,,,,,,,
+Kaneville Public Library District,"2S101 Harter Road Kaneville, IL 60144-0029",41.8355979,-88.5218551,,,,,,,,,,,,
+Kankakee Public Library,"201 East Merchant Street Kankakee, IL 60901",41.1197131,-87.8636492,Kankakee Public Library,"201 East Merchant Street, Kankakee, IL  60901",Yes,Yes,34.0,69.0,79.0,25.0,68.0,51.0,60.333333333333336,48.333333333333336
+Kansas Community Memorial Library,"107 North Front Street Kansas, IL 61933-0365",39.553262,-87.9394598,,,,,,,,,,,,
+Kenilworth Public Library District,"419 Richmond Road Kenilworth, IL 60043-1140",42.0869446,-87.7162974,,,,,,,,,,,,
+Kewanee Public Library District,"102 South Tremont Street Kewanee, IL 61443-2130",41.2432142,-89.9259438,,,,,,,,,,,,
+Kinmundy Public Library,"111 South Monroe Street Kinmundy, IL 62854-0085",38.77292,-88.85054199999999,,,,,,,,,,,,
+Kirkland Public Library,"513 West Main Street Kirkland, IL 60146-0189",42.0929013,-88.85032179999999,,,,,,,,,,,,
+Kitchell Memorial Library,"300 SouthEast Fifth Street Morrisonville, IL 62546-0049",39.4190598,-89.4563616,Kitchell Memorial Library,"300 SE 5th St, Morrisonville, IL  62546",Yes,Yes,,,,,,,,
+Knoxville Public Library,"200 East Main Street Knoxville, IL 61448-1351",40.9077971,-90.2832454,,,,,,,,,,,,
+Lacon Public Library District,"205 Sixth Street Lacon, IL 61540-1244",41.0259536,-89.41182500000001,,,,,,,,,,,,
+Ladd Public Library District,"125 North Main Street Ladd, IL 61329-0307",41.3823135,-89.21889709999999,,,,,,,,,,,,
+LaGrange Park Public Library District,"555 North LaGrange Road LaGrange Park, IL 60526-5644",41.8249271,-87.8708178,,,,,,,,,,,,
+LaGrange Public Library,"10 West Cossitt Avenue La Grange, IL 60525-2327",41.81210189999999,-87.8699741,La Grange Public Library,"10 W Cossitt Ave, La Grange, IL 60525",Yes,Yes,120.0,16.0,100.0,10.0,100.0,9.0,106.66666666666667,11.666666666666666
+LaHarpe Carnegie Public Library District,"209 East Main Street, PO Box 506 La Harpe, IL 61450-0506",40.5833749,-90.9693057,,,,,,,,,,,,
+Lake Bluff Public Library,"123 East Scranton Avenue Lake Bluff, IL 60044-2570",42.2794529,-87.84304379999999,Lake Bluff Public Library,"123 E Scranton Ave. Lake Bluff, IL 60044",Yes,Yes,62.0,24.0,62.0,24.0,65.0,24.0,63.0,24.0
+Lake Forest Library,"360 East Deerpath Road Lake Forest, IL 60045-2252",42.25223709999999,-87.838163,,,,,,,,,,,,
+Lake Villa Public Library District,"140 North Munn Road Lindenhurst, IL 60046-9154",42.4178876,-88.0491837,Lake Villa Public Library District,140 N Munn Rd,Yes,Yes,92.0,83.0,46.0,56.0,78.0,82.0,72.0,73.66666666666667
+LaMoille-Clarion Public Library District,"81 N. Main St. La Moille, IL 61330",41.5326521,-89.2797166,,,,,,,,,,,,
+Lanark Public Library,"111B South Broad Street Lanark, IL 61046-1203",42.10158879999999,-89.8325413,,,,,,,,,,,,
+Lansing Public Library,"2750 Indiana Avenue Lansing, IL 60438-2226",41.5660387,-87.5497062,,,,,,,,,,,,
+LaSalle Public Library,"305 Marquette St La Salle, IL 61301",41.3305148,-89.09639829999999,LaSalle Public Library,305 Marquette St. La Salle Il 61301,Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Lawrence Public Library District,"814 12th Street Lawrenceville, IL 62439-2706",38.7279313,-87.6828446,Lawrence Public Library District,"814 12th Street, Lawrenceville",Yes,Yes,91.0,42.0,92.0,40.0,92.0,37.0,91.66666666666667,39.666666666666664
+Lebanon Public Library,"314 West Saint Louis Street Lebanon, IL 62254-1561",38.603791,-89.81102779999999,,,,,,,,,,,,
+Leepertown Township Public Library,"201 East Nebraska Street Bureau, IL 61315-9700",41.28798829999999,-89.3662603,,,,,,,,,,,,
+Lemont Public Library District,"50 E Wend Street Lemont, IL 60439",41.6578597,-88.0038179,Lemont Public Library District,"50 E Wend St.  Lemont, IL 60439",Yes,Yes,320.0,39.0,320.0,40.0,320.0,40.0,320.0,39.666666666666664
+Lena Community District Library,"300 West Mason Street Lena, IL 61048-0756",42.378839,-89.8278579,,,,,,,,,,,,
+Lewistown Carnegie Public Library District,"1126 N. Main Lewistown, IL 61542-9669",40.4040233,-90.1556979,,,,,,,,,,,,
+The Smith Library,"207 S. Cedar Lexington, IL 61753",40.6399766,-88.7830425,,,,,,,,,,,,
+Lillie M. Evans Library District,"207 North Walnut Avenue Princeville, IL 61559-0349",40.9312122,-89.7565494,,,,,,,,,,,,
+Limestone Township Library District,"2701 West Tower Road Kankakee, IL 60901-8081",41.1408582,-87.9276854,,,,,,,,,,,,
+Lincoln Library,"326 South Seventh Street Springfield, IL 62701-1621",39.79859099999999,-89.64552549999999,Lincoln Library,"326 South 7th Street, Springfield, IL 62701",Yes,Yes,25.0,70.0,61.0,92.0,87.0,89.0,57.666666666666664,83.66666666666667
+Lincoln Public Library District,"725 Pekin Street Lincoln, IL 62656-2726",40.14683720000001,-89.3611111,Lincoln Public Library District,"725 Pekin St. Lincoln, IL",Yes,Yes,24.0,22.0,26.0,24.0,26.0,22.0,25.333333333333332,22.666666666666668
+Annex Branch,"622 Broadway Street Lincoln, IL 62656",40.1464359,-89.36151249999999,,,,,,,,,,,,
+Lincolnwood Public Library District,"4000 West Pratt Avenue Lincolnwood, IL 60712-3531",42.0048234,-87.72919999999999,Lincolnwood Public Library District,"4000 W. Pratt Ave, Lincolnwood, IL 60712",Yes,Yes,90.0,90.0,75.0,92.0,86.0,83.0,83.66666666666667,88.33333333333333
+Linda Sokol Francis Brookfield Library,"3541 Park Avenue Brookfield, IL 60513",41.8259318,-87.84865909999999,,,,,,,,,,,,
+Lisle Library District,"777 Front Street Lisle, IL 60532-2287",41.7964317,-88.06693659999999,,,,,,,,,,,,
+Litchfield Public Library District,"1205 S. State Street Litchfield, IL 62056",39.1645101,-89.6561227,Litchfield Public Library District,"1205 S State  Litchfield, IL 62056",Yes,Yes,163.0,165.0,163.0,161.0,166.0,164.0,164.0,163.33333333333334
+Lostant Community Library,"102 West Third Street Lostant, IL 61334-0189",41.1418792,-89.06031279999999,Lostant Community Library,"102 West 3rd Street, Lostant 61334",Yes,Yes,25.0,5.0,25.0,5.0,25.0,5.0,25.0,5.0
+Louis Latzer Memorial Public Library,"1001 Ninth Street Highland, IL 62249-1612",38.7417378,-89.6787191,,,,,,,,,,,,
+Lovington Public Library District,"110 W. State St. Lovington, IL 61937",39.7157306,-88.6329926,,,,,,,,,,,,
+Lyons Public Library,"4209 Joliet Avenue Lyons, IL 60534-1514",41.8149793,-87.82039440000001,,,,,,,,,,,,
+M-C River Valley Public Library District,"304 Main Street Meredosia, IL 62665-0259",39.8309584,-90.5608373,,,,,,,,,,,,
+Mackinaw District Public Library,"117 South Main Street Mackinaw, IL 61755-0560",40.536096,-89.3588894,,,,,,,,,,,,
+Macomb Public Library District,"235 South Lafayette Street Macomb, IL 61455-2231",40.4566521,-90.6715603,,,,,,,,,,,,
+Madison Public Library,"1700 Fifth Street Madison, IL 62060-1502",38.6806926,-90.1518759,,,,,,,,,,,,
+Mahomet Public Library District,"1702 E Oak St Mahomet, IL 61853",40.1869304,-88.3757538,,,,,,,,,,,,
+Malta Township Public Library,"203 East Adams Street Malta, IL 60150-0054",41.9297285,-88.86320200000002,,,,,,,,,,,,
+Manhattan-Elwood Public Library District,"240 Whitson Street Manhattan, IL 60442-0053",41.4218937,-87.9841208,Manhattan-Elwood Public Library District,"240 Whitson Street  PO Box 53, Manhattan",Yes,Yes,,,,,,,,
+Manteno Public Library District,"10 South Walnut Street Manteno, IL 60950-1433",41.2489526,-87.8363641,,,,,,,,,,,,
+Maple Park Public Library District,"302 Willow Street Maple Park, IL 60151-0159",41.90580180000001,-88.5998845,,,,,,,,,,,,
+Maquon Public Library District,"210 Main Street Maquon, IL 61458-0230",40.7992887,-90.1652636,,,,,,,,,,,,
+Marengo-Union Public Library District,"19714 East Grant Highway Marengo, IL 60152-9493",42.23868450000001,-88.5821215,Marengo-Union Library District,"PO BOX 145, 19714 E Grant Hwy, Marengo, Il 60152",Yes,Yes,320.0,11.0,320.0,7.0,320.0,11.0,320.0,9.666666666666666
+Marion Carnegie Library,"206 South Market Street Marion, IL 62959-2516",37.7295,-88.9276544,,,,,,,,,,,,
+Marissa Area Public Library District,"212 North Main Street Marissa, IL 62257-1344",38.2471121,-89.753902,Marissa Area Public Library District,"212 North Main Street, Marissa, IL 62257",Yes,Yes,291.0,50.0,258.0,48.0,287.0,50.0,278.6666666666667,49.333333333333336
+Bradford Anderson Oglesby Public Library,"16640 South Kedzie Avenue Markham, IL 60428-0038",41.5866592,-87.69486169999999,MARKHAM PUBLIC LIBRARY,"16640 KEDZIE AVE. MARKHAM, IL 60428",Yes,Yes,106.0,106.0,106.0,106.0,106.0,106.0,106.0,106.0
+Maroa Public Library District,"305 E Garfield St Maroa, IL 61756",40.0342026,-88.9528701,Maroa Public Library District,"305 E. Garfield St. Maroa, IL 61756",Yes,Yes,188.0,145.0,193.0,198.0,189.0,186.0,190.0,176.33333333333334
+Marquette Heights Public Library,"715 Lincoln Road Marquette Heights, IL 61554-1313",40.6170704,-89.60238389999999,,,,,,,,,,,,
+Marrowbone Public Library District,"216 West Main Street Bethany, IL 61914-8627",39.6452928,-88.7401156,,,,,,,,,,,,
+Marseilles Public Library,"155 East Bluff Street Marseilles, IL 61341-1442",41.3300223,-88.70687110000001,,,,,,,,,,,,
+Marshall Area Public Library District,"612 Archer Avenue Marshall, IL 62441-1268",39.3909908,-87.6955327,Marshall Public Library,"612 Archer Avenue, Marshall, IL 62441",Yes,Yes,94.0,94.0,95.0,94.0,95.0,94.0,94.66666666666667,94.0
+Martin Township Public Library,"132 West Main Street Colfax, IL 61728-0376",40.5668031,-88.6176887,,,,,,,,,,,,
+Martinsville Public Library District,"120 East Cumberland Street Martinsville, IL 62442-0190",39.3341046,-87.88055829999999,Martinsville Public Library District,"120 E Cumberland St Martinsville, IL 62442",Yes,Yes,28.0,2.0,27.0,1.0,27.0,1.0,27.333333333333332,1.3333333333333333
+Maryville Community Library District,"15 Professional Park Drive Maryville, IL 62062-5625",38.7374237,-89.95498529999999,,,,,,,,,,,,
+Mascoutah Public Library,"3 W Church St Mascoutah, IL 62258-2004",38.4914707,-89.79773159999999,Mascoutah Public Library,3 West Church St Mascoutah IL 62258,Yes,Yes,111.0,35.0,110.0,35.0,110.0,35.0,110.33333333333333,35.0
+Mason City Public Library District,"820 West Chestnut Street Mason City, IL 62664-9768",40.2025892,-89.7078732,Mason City Public Library District,"820 W Chestnut Street   Mason City, IL 62664-9768",Yes,Yes,39.0,87.0,49.0,93.0,55.0,93.0,47.666666666666664,91.0
+Mason Memorial District Library,"104 West Main Street Buda, IL 61314-0055",41.3269228,-89.6796925,,,,,,,,,,,,
+Matteson Area Public Library District,"801 School Avenue Matteson, IL 60443-1849",41.5126755,-87.7251885,Matteson Area Community Library District,"801 School Ave. Matteson, IL 60443",Yes,Yes,44.58,43.55,43.55,42.38,43.02,42.08,43.71666666666667,42.669999999999995
+Mattoon Public Library,"1600 Charleston Avenue Mattoon, IL 61938-0809",39.4818714,-88.37427509999999,,,,,,,,,,,,
+Maywood Public Library District,"121 South Fifth Avenue Maywood, IL 60153-1307",41.8873593,-87.83831049999999,,,,,,,,,,,,
+McCook Public Library District,"8419 West 50th Street McCook, IL 60525-3187",41.8001917,-87.8309136,,,,,,,,,,,,
+McCoy Memorial Library,"130 South Washington Street McLeansboro, IL 62859-1147",38.0930408,-88.53686390000001,,,,,,,,,,,,
+McHenry Public Library District,"809 Front Street McHenry, IL 60050-5578",42.3391799,-88.27569439999999,McHenry Public Library District,"809 Front Street McHenry, IL 60050",Yes,Yes,292.0,194.0,320.0,190.0,292.0,194.0,301.3333333333333,192.66666666666666
+Melrose Park Public Library,"801 Broadway Avenue Melrose Park, IL 60160-3725",41.89447879999999,-87.8561888,Melrose Park Public Library,"801 N. Broadway, Melrose Park, IL 60160",Yes,Yes,106.0,77.0,102.0,75.0,105.0,79.0,104.33333333333333,77.0
+Melvin Public Library,"102 South Center Gibson City, IL 60936",40.46531179999999,-88.37588749999999,,,,,,,,,,,,
+Messenger Public Library of North Aurora,"113 Oak Street North Aurora, IL 60542-1108",41.8090724,-88.3285703,,,,,,,,,,,,
+Metropolis Public Library,"317 Metropolis Street Metropolis, IL 62960-2135",37.1494629,-88.73199489999999,Metropolis Public Library,317 Metropolis Street,,,,,,,,,,
+Midlothian Public Library,"14701 South Kenton Avenue Midlothian, IL 60445-2575",41.6796599,-87.7338137,,,,,,,,,,,,
+Milan-Blackhawk Area Public Library District,"Rock Island Public Library Rock Island, IL 61201-8124",41.508518,-90.572784,,,,,,,,,,,,
+Milford District Library,"2 South Grant Avenue Milford, IL 60953-1310",40.6281894,-87.6933573,,,,,,,,,,,,
+Milledgeville Public Library,"18 West Fifth Street Milledgeville, IL 61051-9416",41.9641212,-89.7755888,,,,,,,,,,,,
+Mills & Petrie Memorial Library and Gymnasium,"704 North First Street Ashton, IL 61006-0308",41.8674668,-89.2227242,Mills & Petrie Memorial Library,"704 N. First Street, Ashton, il  61006",Yes,Yes,91.0,35.0,91.0,35.0,91.0,35.0,91.0,35.0
+Millstadt Library,"115 West Laurel Street Millstadt, IL 62260-1925",38.45917,-90.093119,,,,,,,,,,,,
+Mineral-Gold Public Library District,"120 East Main Street Mineral, IL 61344-0087",41.382276,-89.83716919999999,,,,,,,,,,,,
+Collinsville Memorial Library Center,"408 West Main Street Collinsville, IL 62234-3018",38.6682604,-89.9902726,Mississippi Valley Library District,"408 West Main Street, Collinsville",Yes,Yes,50.0,50.0,51.0,48.0,50.0,50.0,50.333333333333336,49.333333333333336
+Fairmont City Library Center,"4444 Collinsville Road Fairmont City, IL 62201-2320",38.6504813,-90.1038394,,,,,,,,,,,,
+Mokena Community Public Library District,"11327 West 195th Street Mokena, IL 60448-1399",41.5344118,-87.8915617,,,,,,,,,,,,
+Moline Public Library,"3210 41st Street Moline, IL 61265-7829",41.4810687,-90.4781069,Moline Public Library,"3210 41st St. Moline, IL 61265",Yes,Yes,121.0,48.0,157.0,26.0,174.0,32.0,150.66666666666666,35.333333333333336
+Moore Memorial Library District,"305 Warren Ave Hillsdale, IL 61257",41.6113876,-90.1697272,,,,,,,,,,,,
+Morris Area Public Library District,"604 Liberty Street Morris, IL 60450-1850",41.3614054,-88.4242577,,,,,,,,,,,,
+Morrison & Mary Wiley Library,"206 West Main Street Elmwood, IL 61529-0467",40.7777448,-89.96838590000002,Morrison & Mary Wiley Library,"206 W Main St Elmwood, IL 61529",Yes,Yes,92.0,29.0,92.0,29.0,92.0,29.0,92.0,29.0
+Morrison-Talbott Library,"215 Park Street Waterloo, IL 62298-1305",38.3328988,-90.1523148,,,,,,,,,,,,
+Morton Grove Public Library,"6140 Lincoln Avenue Morton Grove, IL 60053-2989",42.0356926,-87.7807144,,,,,,,,,,,,
+Morton Public Library District,"315 West Pershing Street Morton, IL 61550-1854",40.6125764,-89.4632132,,,,,,,,,,,,
+Mounds Public Library,"418 First Street Mounds, IL 62964-1208",37.11444600000001,-89.1974833,,,,,,,,,,,,
+Mount Carmel Public Library,"727 North Mulberry Street Mount Carmel, IL 62863-2047",38.4148094,-87.76149570000001,Mount Carmel Public Library,"727 N Mulberry St, Mount Carmel, IL 62863",Yes,Yes,168.0,44.0,177.0,45.0,179.0,44.0,174.66666666666666,44.333333333333336
+Mount Carroll District Library,"208 N. Main Mount Carroll, IL 61053",42.1002407,-89.9791941,,,,,,,,,,,,
+Mount Hope-Funk's Grove Townships Public Library District,"111 South Hamilton Street McLean, IL 61754-0320",40.3120462,-89.17085420000001,Mt. Hope-Funks Grove Public Library District,"111 S Hamilton St, McLean, IL 61754",,,,,,,,,,
+Mount Morris Public Library,"105 South McKendrie Avenue Mount Morris, IL 61054",42.0474367,-89.4316971,Mount Morris Public Library,"105 S. McKendrie Ave, Mount Morris, IL 61054",Yes,Yes,320.0,320.0,320.0,320.0,320.0,298.0,320.0,312.6666666666667
+Mount Olive Public Library,"100 North Plum Street Mount Olive, IL 62069-1755",39.075998,-89.726022,,,,,,,,,,,,
+Mount Prospect Public Library,"10 South Emerson Street Mount Prospect, IL 60056-3218",42.0657144,-87.93608449999999,,,,,,,,,,,,
+South Branch,"1711 West Algonquin Road Mount Prospect, IL 60056-5401",42.0354571,-87.9614105,,,,,,,,,,,,
+Mount Pulaski Public Library District,"320 North Washington Street Mount Pulaski, IL 62548-1151",40.0124581,-89.2855969,Mount Pulaski Public Library,"320 N. Washington, Mt. Pulaski Illinois 62548",Yes,Yes,320.0,39.0,320.0,40.0,320.0,40.0,320.0,39.666666666666664
+Mount Zion District Library,"115 West Main Street Mount Zion, IL 62549-1534",39.7695428,-88.87214039999999,,,,,,,,,,,,
+Moweaqua Public Library District,"600 North Putnam Street Moweaqua, IL 62550-9418",39.6312409,-89.0146097,,,,,,,,,,,,
+Moyer District Library,"618 South Sangamon Avenue Gibson City, IL 60936-1721",40.45846900000001,-88.3746922,Moyer District Library,618 S. Sangamon Avenue,Yes,Yes,70.0,6.0,67.0,6.0,68.0,6.0,68.33333333333333,6.0
+Nancy L. McConathy Public Library District,"21737 Jeffrey Ave Sauk Village, IL 60411",41.4921041,-87.57333369999999,,,,,,,,,,,,
+The Nichols Library,"200 West Jefferson Avenue Naperville, IL 60540-5351",41.7722664,-88.1520108,,,,,,,,,,,,
+95th Street Library,"3015 Cedar Glade Dr Naperville, IL 60564",41.7090165,-88.20211359999999,,,,,,,,,,,,
+Naperville Public Library,"20 West Jefferson Naperville, IL 60540",41.7727368,-88.1486379,,,,,,,,,,,,
+Nashville Public Library,"219 East Elm Street Nashville, IL 62263-1711",38.3447904,-89.381619,Nashville Public Library,"219 East Elm Street / Nashville, IL 62263",Yes,Yes,12.0,11.0,12.0,12.0,12.0,12.0,12.0,11.666666666666666
+Nauvoo Public Library,"1270 Mulholland Street Nauvoo, IL 62354-0276",40.5496281,-91.3824433,,,,,,,,,,,,
+Neoga Public Library District,"551 Chestnut Avenue Neoga, IL 62447-0888",39.3190304,-88.4539015,,,,,,,,,,,,
+Neponset Public Library,"201 West Commerical Street Neponset, IL 61345-0110",41.2962547,-89.7911579,,,,,,,,,,,,
+New Athens District Library,"201 North Van Buren Street New Athens, IL 62264-1024",38.32676,-89.87810139999999,New Athens District Library,"201 N. Van Buren St., New Athens, IL 62264",Yes,Yes,113.0,35.0,114.0,35.0,100.0,34.0,109.0,34.666666666666664
+New Baden Public Library,"210 North First Street New Baden, IL 62265-1357",38.537357,-89.6995037,,,,,,,,,,,,
+New Lenox Public Library District,"120 Veterans Parkway New Lenox, IL 60451-2390",41.5138014,-87.9785734,,,,,,,,,,,,
+New Windsor Public Library District,"412 Main Street New Windsor, IL 61465-0220",41.2025115,-90.4415038,,,,,,,,,,,,
+Newman Regional Library District,"207 S Coffin St Newman, IL 61942",39.7961076,-87.9876402,Newman Regional Library District,"207 S. Coffin St., Ste. D, Newman, IL 61942",Yes,Yes,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0
+Newton Public Library District,"100 S. Van Buren St. Newton, IL 62448",38.9908164,-88.1608325,,,,,,,,,,,,
+Niles-Maine District Library,"6960 West Oakton Street Niles, IL 60714-3098",42.0268167,-87.8010177,Niles-Maine Distrct Library,6960 W. Oakton St.,Yes,Yes,120.0,35.0,120.0,35.0,120.0,35.0,120.0,35.0
+Nippersink Public Library District,"5418 Hill Road Richmond, IL 60071-9750",42.4652537,-88.3044149,,,,,,,,,,,,
+Nokomis Community Building,"22 South Cedar Street Nokomis, IL 62075-1663",39.299736,-89.28798379999999,,,,,,,,,,,,
+Normal Public Library,"206 West College Avenue Normal, IL 61761-2576",40.5105945,-88.9867785,Normal Public Library,"206 West College Avenue  Normal, IL 61761",Yes,Yes,34.0,34.0,27.0,31.0,36.0,34.0,32.333333333333336,33.0
+Norris City Memorial Public Library District,"603 South Division Street Norris City, IL 62869-1516",37.9760013,-88.3285049,,,,,,,,,,,,
+North Chicago Public Library,"2100 Argonne Drive North Chicago, IL 60064-2439",42.32554750000001,-87.85796789999999,,,,,,,,,,,,
+North Pike District Library,"119 South Corey Street Griggsville, IL 62340-0419",39.7082018,-90.7265569,,,,,,,,,,,,
+North Riverside Public Library District,"2400 Des Plaines Avenue North Riverside, IL 60546-1520",41.84629450000001,-87.8235876,North Riverside Public Library District,"2400 S. Des Plaines Ave., North Riverside, IL 60546",Yes,Yes,320.0,124.0,320.0,61.0,320.0,87.0,320.0,90.66666666666667
+NSLD/Loves Park Administrative,"6340 North Second Street Loves Park, IL 61111-4166",42.3227907,-89.0586932,,,,,,,,,,,,
+Roscoe Branch Library,"5562 Clayton Circle Roscoe, IL 61073",42.4298863,-89.0082979,,,,,,,,,,,,
+Northbrook Public Library,"1201 Cedar Lane Northbrook, IL 60062-4513",42.1305085,-87.8308752,Northbrook Public Library,"1201 Cedar Lane, Northbrook, IL 60062",Yes,Yes,306.0,274.0,217.0,229.0,270.0,320.0,264.3333333333333,274.3333333333333
+Northlake Public Library District,"231 North Wolf Road Northlake, IL 60164-1648",41.9113391,-87.90290739999999,Northlake Public Library District,231 N Wolf Rd Northlake IL 60164,Yes,Yes,221.0,21.0,219.0,20.0,220.0,22.0,220.0,21.0
+O'Fallon Public Library,"120 Civic Plaza O'Fallon, IL 62269-2692",38.5817228,-89.91327679999999,O'Fallon Public Library,"120 Civic Plaza, O'Fallon IL  62269",Yes,Yes,24.0,28.0,28.0,30.0,26.0,30.0,26.0,29.333333333333332
+Oak Brook Public Library,"600 Oak Brook Road Oak Brook, IL 60523-2202",41.8336998,-87.9369973,,,,,,,,,,,,
+Oak Lawn Public Library,"9427 Raymond Ave Oak Lawn, IL 60453",41.72031010000001,-87.7522678,Oak Lawn Public Library,"9427 S. Raymond Ave, Oak Lawn, IL 60453",Yes,Yes,101.0,27.0,46.0,34.0,50.0,34.0,65.66666666666667,31.666666666666668
+Oak Park Public Library(Primary Building),"834 Lake Street Oak Park, IL 60301-1398",41.88912089999999,-87.7964677,Oak Park Public Library,834 Lake St,Yes,Yes,236.0,241.0,169.0,109.0,243.0,236.0,216.0,195.33333333333334
+Dole Branch Library,"255 Augusta Street Oak Park, IL 60302-1701",41.8980427,-87.7826743,,,,,,,,,,,,
+Maze Branch Library,"845 Gunderson Avenue Oak Park, IL 60304-1425",41.8728358,-87.78701339999999,,,,,,,,,,,,
+Oakwood Public Library District,"110 East Finley Street Oakwood, IL 61858-0099",40.11475710000001,-87.7774293,,,,,,,,,,,,
+Odell Public Library,"307 South Madison Street Morrison, IL 61270-2724",41.8056412,-89.9662531,Odell Public Library,"307 South Madison, Morrison, IL 61270",Yes,Yes,307.0,313.0,320.0,315.0,309.0,287.0,312.0,305.0
+Odell Public Library District,"301 East Richard Street Odell, IL 60460-0347",41.003052,-88.5215928,Odell Public Library District,"301 E. Richard Street, Odell, IL 60460",Yes,Yes,24.0,3.0,37.0,3.0,37.0,2.0,32.666666666666664,2.6666666666666665
+Ogden Rose Public Library,"103 West Main Street Ogden, IL 61859-0297",40.11419,-87.9566579,Ogden Rose Public Library,103 w. Main st. Ogden Illinois 61859,Yes,Yes,30.0,6.0,30.0,8.0,25.0,4.0,28.333333333333332,6.0
+Oglesby Public Library District,"111 South Woodland Avenue Oglesby, IL 61348-1597",41.2942317,-89.06294249999999,,,,,,,,,,,,
+Ohio Public Library District,"112 North Main Street Ohio, IL 61349-0187",41.5580954,-89.4618652,,,,,,,,,,,,
+Olney Public Library,"400 West Main Street Olney, IL 62450-1555",38.73177,-88.0888167,,,,,,,,,,,,
+Olympia Fields Public Library,"207th and Governors Highway Olympia Fields, IL 60461-1096",41.5169125,-87.7062084,,,,,,,,,,,,
+Onarga Community Public Library District,"209 West Seminary Avenue Onarga, IL 60955-1131",40.7150544,-88.00953419999999,,,,,,,,,,,,
+Oregon Public Library District,"300 Jefferson Street Oregon, IL 61061-1616",42.0135578,-89.33170059999999,Oregon Public Library,"300 Jefferson St. Oregon, IL 61061",Yes,Yes,273.0,29.0,30.0,280.0,285.0,29.0,196.0,112.66666666666667
+Orland Hills Public Library District,"7851 Timber Drive Tinley Park, IL 60477-5387",41.5620017,-87.81044890000001,Tinley Park Public Library,"7851 Timber Dr. Tinley Park, IL 60477",Yes,Yes,320.0,35.0,320.0,31.0,320.0,35.0,320.0,33.666666666666664
+Orland Park Public Library,"14921 South Ravinia Avenue Orland Park, IL 60462-3193",41.6188374,-87.8563566,,,,,,,,,,,,
+Oswego Campus,"32 West Jefferson Street Oswego, IL 60543-9078",41.685141,-88.35072269999999,,,,,,,,,,,,
+Montgomery Campus,"1111 Reading Drive Montgomery, IL 60538",41.7207466,-88.2954341,,,,,,,,,,,,
+Palatine Public Library District(Primary Building),"700 North North Court Palatine, IL 60067-8158",42.12216180000001,-88.0367672,,,,,,,,,,,,
+North Hoffman Branch,"3600 Lexington Drive Hoffman Estates, IL 60192-1824",42.0892626,-88.10587319999999,Palatine Public Library District,"3600 Lexington Drive, Hoffman Estates, IL 60192",Yes,Yes,58.0,8.0,57.0,6.0,57.0,6.0,57.333333333333336,6.666666666666667
+Rand Road Branch,"1585 Rand Road Palatine, IL 60074",42.1378372,-88.018952,,,,,,,,,,,,
+Palestine Public Library District,"201 South Washington Street Palestine, IL 62451-1060",39.0016978,-87.62183879999999,,,,,,,,,,,,
+Palos Heights Public Library,"12501 South 71st Avenue Palos Heights, IL 60463-1595",41.6640115,-87.79395129999999,Palos Heights Public Library,"12501 S 71st Avenue, Palos Heights, IL 60463",Yes,Yes,219.0,49.0,220.0,44.0,,,219.5,46.5
+Palos Park Public Library,"12330 South Forest Glen Boulevard Palos Park, IL 60464-1707",41.6654517,-87.838212,,,,,,,,,,,,
+Pankhurst Memorial Library,"3 South Jefferson Avenue Amboy, IL 61310-1400",41.7147787,-89.32747619999999,,,,,,,,,,,,
+Paris Carnegie Public Library,"207 South Main Street Paris, IL 61944-2252",39.60940160000001,-87.6952824,,,,,,,,,,,,
+Park Forest Public Library,"400 Lakewood Boulevard Park Forest, IL 60466-1619",41.4851658,-87.6847072,Park Forest Public Library,"400 Lakewood Blvd., Park Forest, 60466",Yes,Yes,117.0,23.0,113.0,23.0,116.0,23.0,115.33333333333333,23.0
+Park Ridge Public Library,"20 South Prospect Avenue Park Ridge, IL 60068-4102",42.0106557,-87.83049129999999,Park Ridge Public Library,"20 S. Prospect, Park Ridge, IL 60068",Yes,Yes,89.0,95.0,79.0,93.0,98.0,96.0,88.66666666666667,94.66666666666667
+Parlin-Ingersoll Public Library,"205 West Chestnut Street Canton, IL 61520-2472",40.557603,-90.0387058,,,,,,,,,,,,
+Patoka Public Library,"210 West Bond Street Patoka, IL 62875-0058",38.7542937,-89.09780479999999,,,,,,,,,,,,
+Paw Paw Public Library District,"362 Chicago Road Paw Paw, IL 61353-0362",41.6888248,-88.9824807,Paw Paw Public Library District,"362 Chicago Road, PO Box 371, Paw Paw, Il 61353",Yes,Yes,,,,,,,,
+Pawnee Public Library,"613 Douglas Street Pawnee, IL 62558-0229",39.5921271,-89.58096479999999,,,,,,,,,,,,
+Paxton Carnegie Library,"254 South Market Street Paxton, IL 60957-1452",40.4589253,-88.09858589999999,,,,,,,,,,,,
+Pearl City Public Library District,"221 South Main Street Pearl City, IL 61062-0158",42.2647145,-89.82586359999999,,,,,,,,,,,,
+Pecatonica Public Library District,"400 West Eleventh Street Pecatonica, IL 61063-9173",42.3054138,-89.36366590000002,,,,,,,,,,,,
+Pekin Public Library,"301 South Fourth Street Pekin, IL 61554-4219",40.567244,-89.6484766,,,,,,,,,,,,
+Pembroke Public Library District,"13130 East Central Road Hopkins Park, IL 60958-0574",41.0664414,-87.61744879999999,,,,,,,,,,,,
+Peoria Heights Public Library,"816 East Glen Avenue Peoria Heights, IL 61616-6507",40.74590449999999,-89.5807806,,,,,,,,,,,,
+Peoria Public Library,"107 Northeast Monroe Street Peoria, IL 61602-1070",40.6952986,-89.59260189999999,,,,,,,,,,,,
+Lakeview Branch Library,"1137 West Lake Avenue Peoria, IL 61614-5935",40.7409456,-89.6118473,,,,,,,,,,,,
+Lincoln Branch Library,"1312 West Lincoln Avenue Peoria, IL 61605-1976",40.6804301,-89.61434919999999,,,,,,,,,,,,
+McClure Branch,"315 West McClure Avenue Peoria, IL 61604-3556",40.7179128,-89.59813899999999,Peoria Public Library,"315 W. McClure Ave. Peoria, IL 61604",Yes,Yes,42.0,57.0,55.0,51.0,50.0,48.0,49.0,52.0
+North Branch,"3001 West Grand Parkway Peoria, IL 61615",40.8005448,-89.6390656,,,,,,,,,,,,
+Peotone Public Library District,"515 North First Street Peotone, IL 60468-8975",41.3383612,-87.7919344,,,,,,,,,,,,
+Peru Public Library,"1409 Eleventh Street Peru, IL 61354-2376",41.33433350000001,-89.1243288,,,,,,,,,,,,
+Petersburg Public Library,"220 South Sixth Street Petersburg, IL 62675-1553",40.009722,-89.8478315,,,,,,,,,,,,
+Philo Public Library District,"115 East Washington Street Philo, IL 61864-0199",40.00668400000001,-88.1569268,,,,,,,,,,,,
+Barack Obama Learning Center,"15500 Eighth Avenue Phoenix, IL 60426-2578",41.6075651,-87.6268904,,,,,,,,,,,,
+Pinckneyville Public Library,"312 South Walnut Street Pinckneyville, IL 62274-1343",38.0769644,-89.3827108,,,,,,,,,,,,
+Piper City Public Library District,"39 West Main Street Piper City, IL 60959-0248",40.7590404,-88.1914182,,,,,,,,,,,,
+Pittsfield Public Library,"205 North Memorial Street Pittsfield, IL 62363-1406",39.6081408,-90.8078733,,,,,,,,,,,,
+Plainfield Area Public Library,"15025 S. Illinois Street Plainfield, IL 60544",41.609178,-88.2033534,,,,,,,,,,,,
+Plano Community Library District,"15 W. North Street Plano, IL 60545-1444",41.6631831,-88.53814009999999,,,,,,,,,,,,
+Polo Public Library District,"302 West Mason Street Polo, IL 61064-1417",41.9864602,-89.58050449999999,,,,,,,,,,,,
+Pontiac Public Library,"211 East Madison Street Pontiac, IL 61764-2088",40.8805406,-88.627226,Pontiac Public Library,"211 E. Madison St. Pontiac, IL 61764",Yes,Yes,150.0,150.0,150.0,150.0,150.0,150.0,150.0,150.0
+Poplar Creek Public Library District(Primary Building),"1405 South Park Avenue Streamwood, IL 60107-2939",42.0087433,-88.1745019,,,,,,,,,,,,
+Sonya Crawshaw Branch,"4300 Audrey Lane Hanover Park, IL 60133-6757",41.9514544,-88.1623491,Poplar Creek Public Library District,"4300 Audrey Ln., Hanover Park, IL 60133",Yes,Yes,227.0,44.0,232.0,44.0,228.0,40.0,229.0,42.666666666666664
+Posen Public Library District,"2440 Walter Zimny Drive Posen, IL 60469-1395",41.6266057,-87.68078129999999,,,,,,,,,,,,
+Potomac Public Library District,"110 East State Street Potomac, IL 61865-9723",40.3051091,-87.7998324,,,,,,,,,,,,
+Prairie Creek Public Library District,"501 Carriage House Lane Dwight, IL 60420-1340",41.0893796,-88.4282341,,,,,,,,,,,,
+Ashland Library,"125 West Editor Street Ashland, IL 62612-0498",39.8888863,-90.0078328,Prairie Skies Public Library District,125 W Editor St,Yes,Yes,42.0,5.0,42.0,5.0,46.0,5.0,43.333333333333336,5.0
+Prairie Trails Public Library District,"8449 Moody Avenue Burbank, IL 60459-2525",41.7386061,-87.77348909999999,,,,,,,,,,,,
+Princeton Public Library,"698 East Peru Street Princeton, IL 61356-1852",41.3699114,-89.451393,Princeton Public Library,698 E. Peru St.,,,,,,,,,,
+Prospect Heights Public Library District,"12 N. Elm Street Prospect Heights, IL 60070",42.0674775,-87.9329885,,,,,,,,,,,,
+Putnam County Public Library District Headquarters,"214 North Fourth Street Hennepin, IL 61327-0199",41.25425509999999,-89.3421671,,,,,,,,,,,,
+Granville Branch,"212 South McCoy Street Granville, IL 61326-0495",41.2615509,-89.2284352,,,,,,,,,,,,
+Magnolia Branch,"114 North Chicago Street Magnolia, IL 61336-9682",41.1129719,-89.1947928,,,,,,,,,,,,
+McNabb Branch,"433 West Main Street McNabb, IL 61335-0135",41.1770383,-89.2103503,,,,,,,,,,,,
+Putnam (Condit) Branch,"105 North Center Street Putnam, IL 61560-0004",41.1815355,-89.3961028,,,,,,,,,,,,
+Standard Branch,"121 First Street Standard, IL 61363-0114",41.256985,-89.1824673,,,,,,,,,,,,
+Quincy Public Library,"526 Jersey St Quincy, IL 62301",39.9298011,-91.4073146,,,,,,,,,,,,
+Ramsey Public Library,"401 South Superior Street Ramsey, IL 62080-0128",39.1409723,-89.1086708,Ramsey Public Library,401 S Superior St Ramsey,No,Yes,16.0,2.0,16.0,2.0,16.0,2.0,16.0,2.0
+Ransom Memorial Public Library,"110 East Main Street Altona, IL 61414-0082",41.11461440000001,-90.1636535,Ransom Memorial Public Library,"110 E. Main St. Altona, IL. 61414",Yes,Yes,51.0,25.0,52.0,50.0,51.0,52.0,51.333333333333336,42.333333333333336
+Rantoul Public Library,"106 West Flessner Avenue Rantoul, IL 61866-3602",40.294361,-88.15970840000001,,,,,,,,,,,,
+Raymond A Sapp Memorial Township Library,"103 East Main Street Wyanet, IL 61379-0023",41.3650989,-89.583395,,,,,,,,,,,,
+Red Bud Public Library,"925 South Main Street Red Bud, IL 62278-1345",38.2031348,-89.99442619999999,Red Bud Public Library,"925 South Main Street, Red Bud, IL  62278",Yes,Yes,70.0,78.0,70.0,77.0,70.0,80.0,70.0,78.33333333333333
+Reddick Public Library District,"1010 Canal Street Ottawa, IL 61350-4899",41.3504468,-88.8455626,Reddick Public Library District,"1010 Canal Street, Ottawa, IL, 61350",Yes,Yes,42.0,17.0,39.0,16.0,43.0,17.0,41.333333333333336,16.666666666666668
+Richard A. Mautino Memorial Library,"215 East Cleveland Street Spring Valley, IL 61362-2135",41.3263212,-89.1971909,,,,,,,,,,,,
+Richton Park Public Library District,"22310 Latonia Lane Richton Park, IL 60471-1239",41.4829681,-87.7258335,Richton Park Public Library District,"22310 Latonia Lane, Richton Park, IL 60471",Yes,Yes,92.0,24.0,91.0,23.0,80.0,22.0,87.66666666666667,23.0
+Rick Warren Memorial Public Library District,"114 South Fourth Street Elkville, IL 62932-1097",37.9075876,-89.2354051,,,,,,,,,,,,
+River East Public Library,"813 West Illinois Route 120 McHenry, IL 60051-3268",42.3346118,-88.213796,,,,,,,,,,,,
+River Forest Public Library,"735 Lathrop Avenue River Forest, IL 60305-1838",41.89314359999999,-87.81432749999999,River Forest Public Library,"735 Lathrop Avenue, River Forest IL 60305",,,,,,,,,,
+River Grove Public Library District,"8638 Grand Avenue River Grove, IL 60171-1207",41.9298391,-87.8420635,,,,,,,,,,,,
+River Valley District Library,"214 South Main Street Port Byron, IL 61275-0010",41.6049421,-90.3359028,,,,,,,,,,,,
+Riverdale Public Library District,"208 West 144th Street Riverdale, IL 60827-2733",41.6331367,-87.62737179999999,,,,,,,,,,,,
+Riverside Public Library,"Riverside Public Library, Riverside, IL 60546",41.8261764,-87.81928239999999,,,,,,,,,,,,
+Riverton Village Library,"1200 East Riverton Road Riverton, IL 62561-8200",39.8595241,-89.531471,Riverton Village library,"1200 Riverton Road, Riverton, Illionis, 62561",Yes,Yes,93.0,94.0,93.0,94.0,94.0,94.0,93.33333333333333,94.0
+Robert R. Jones Public Library District,"900 First Street Coal Valley, IL 61240-0190",41.4429571,-90.4616218,,,,,,,,,,,,
+Robert W. Rowe Public Library District,"120 East Si Johnson Avenue Sheridan, IL 60551-0358",41.5302333,-88.67939830000002,Robert W. Rowe Public Library,120 E Si Johnson Ave.,Yes,Yes,70.0,10.0,70.0,10.0,68.0,10.0,69.33333333333333,10.0
+Robinson Public Library District,"606 North Jefferson Street Robinson, IL 62454-2665",39.0105483,-87.7376531,,,,,,,,,,,,
+Hutsonville Public Library,"101 South Main Street Hutsonville, IL 62433-0008",39.109339,-87.656668,,,,,,,,,,,,
+Oblong Public Library Branch,"110 East Main Street Oblong, IL 62449-1411",39.0016497,-87.90840670000001,Robinson Public Library District,"110 E. Main Street, Oblong, IL 62449-1411",Yes,Yes,27.0,6.0,27.0,6.0,28.0,6.0,27.333333333333332,6.0
+Susie Wesley Memorial Library,"104 South Central Avenue Flat Rock, IL 62427-0185",38.9008825,-87.6747178,,,,,,,,,,,,
+Rochester Public Library District,"1 Community Drive Rochester, IL 62563-0617",39.7447304,-89.52653939999999,,,,,,,,,,,,
+Rock Falls Public Library District,"1007 Seventh Avenue Rock Falls, IL 61071-2831",41.7722994,-89.6971174,,,,,,,,,,,,
+Southwest Library,"9010 Ridgewood Road Rock Island, IL 61201",41.4293561,-90.5949125,,,,,,,,,,,,
+Watts-Midtown Library,"2715 30th Street  Rock Island, IL 61201-5545",41.4818974,-90.5566127,,,,,,,,,,,,
+Rock River Library District,"Silvis Public Library Silvis, IL 61282-1146",41.5122485,-90.4167433,,,,,,,,,,,,
+Rockford Public LibraryHart Interim (Primary Building),"214 North Church Street Rockford, IL 61101-1023",42.273424,-89.0949777,,,,,,,,,,,,
+East Branch Library,"6685 East State Street Rockford, IL 61108-2543",42.2677561,-88.9856909,Rockford Public Library,6685 East State Street,Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Montague Branch Library,"1238 South Winnebago Street Rockford, IL 61102-2944",42.25977049999999,-89.1048567,Rockford Public,"1238 S. Winnebago Street Rockford, IL 61102",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Nordlof Center,"118 North Main Street Rockford, IL 61101-1102",42.2718552,-89.0945241,,,,,,,,,,,,
+Rolling Meadows Library,"3110 Martin Lane Rolling Meadows, IL 60008-2623",42.0765229,-88.02136589999999,,,,,,,,,,,,
+Roodhouse Public Library,"220 West Franklin Street Roodhouse, IL 62082-1412",39.4822287,-90.3723895,,,,,,,,,,,,
+Roselle Public Library District,"40 South Park Street Roselle, IL 60172-2020",41.9823847,-88.0764178,Roselle Public Library District,"40 S Park Street Roselle, IL 60172",Yes,Yes,47.0,31.0,45.0,29.0,47.0,31.0,46.333333333333336,30.333333333333332
+Rosiclare Memorial Public Library,"308 Main Street Rosiclare, IL 62982-0010",37.4197397,-88.3449697,Rosiclare Memorial Public Library,"308 Main Street, Rosiclare, IL  62982",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Round Lake Area Public Library District,"906 Hart Road Round Lake, IL 60073-3700",42.35772739999999,-88.10587319999999,,,,,,,,,,,,
+Main Building,"200 North Central Avenue Roxana, IL 62084-1102",38.8488271,-90.0793236,Roxana Public Library District,"200 North Central Avenue Roxana, IL 62084",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Royalton Public Library District,"305 South Dean Street Royalton, IL 62983-0460",37.8778223,-89.11522339999999,,,,,,,,,,,,
+Rural Woodstock Public Library District,"414 West Judd Street Woodstock, IL 60098-3131",42.3159172,-88.4523292,,,,,,,,,,,,
+Rushville Public Library,"514 Maple Avenue Rushville, IL 62681-1044",40.1258561,-90.5659374,,,,,,,,,,,,
+Saint Charles Public Library District,"1 S. 6th Avenue St. Charles, IL 60174",41.91407520000001,-88.30799239999999,,,,,,,,,,,,
+Saint Elmo Public Library District,"311 West Cumberland Road Saint Elmo, IL 62458-1430",39.0225766,-88.8515403,,,,,,,,,,,,
+Beecher City Branch Library,"1358 E State Highway 33 Beecher City, IL 62414",39.187747,-88.780505,,,,,,,,,,,,
+Brownstown Branch Library,"120 East Main Street Brownstown, IL 62418",38.9963834,-88.9535927,,,,,,,,,,,,
+Saint Joseph Township-Swearingen Memorial Library,"201 North Third Street Saint Joseph, IL 61873-0259",40.112564,-88.04077900000001,St. Joseph Township-Swearingen Memorial Library,"201 N. Third, St. Joseph, IL 61873",Yes,Yes,47.0,45.0,43.0,43.0,,,45.0,44.0
+Salem Township Public Library District,"102 North Burson Street Yates City, IL 61572-0019",40.7788987,-90.0125358,,,,,,,,,,,,
+Sallie Logan Public Library,"1808 Walnut Street Murphysboro, IL 62966-1908",37.7646648,-89.3428895,Sallie Logan Public Library,"1808 Walnut St. Murphysboro, IL 62966",Yes,Yes,55.0,60.0,,,,,55.0,60.0
+Sandwich Public Library District,"925 South Main Street Sandwich, IL 60548-2304",41.6379387,-88.6230042,Sandwich Public Library District,"925 S. Main St., Sandwich, IL 60548",,,,,,,,,,
+Savanna Public Library District,"326 Third Street Savanna, IL 61074",42.0944204,-90.1550944,,,,,,,,,,,,
+Schaumburg Township District Library(Primary Building),"130 South Roselle Road Schaumburg, IL 60193-1647",42.0255993,-88.0832214,Schaumburg Township District Library,"130 S. Roselle Rd., Schaumburg, IL 60193",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Hanover Park Branch Library,"1266 Irving Park Road Hanover Park, IL 60133",42.0048095,-88.1386474,,,,,,,,,,,,
+Hoffman Estates Branch Library,"1550 Hassell Road Hoffman Estates, IL 60169",42.0631087,-88.1183384,,,,,,,,,,,,
+Schiller Park Public Library,"4200 Old River Road Schiller Park, IL 60176-1630",41.9556631,-87.8610467,Schiller Park Public Library,"4200 Old River Road, Schiller Park, IL 60176",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Schmaling Memorial Public Library District,"501 Tenth Avenue Fulton, IL 61252-0125",41.8674484,-90.1643124,,,,,,,,,,,,
+Selby Township Library District,"101 Depot Street Depue, IL 61322-0049",41.3250863,-89.30595799999999,,,,,,,,,,,,
+Seneca Public Library District,"210 North Main Street Seneca, IL 61360-9318",41.3142785,-88.6095821,,,,,,,,,,,,
+Sesser Public Library,"303 West Franklin Street Sesser, IL 62884-0538",38.0915534,-89.0530812,Sesser Public Library,303 West Franklin st. Sesser IL 62884,Yes,Yes,300.0,50.0,300.0,50.0,300.0,50.0,300.0,50.0
+Shawneetown Public Library,"320 North Lincoln Avenue East Shawneetown, IL 62984-0972",37.71797,-88.18595309999999,,,,,,,,,,,,
+Sheffield Public Library,"136 East Cook Street Sheffield, IL 61361-9765",41.3566404,-89.7362169,Sheffield Illinois Public Library,"136 E Cook St, Sheffield IL, 61361",Yes,Yes,15.0,,16.0,1.0,16.0,1.0,15.666666666666666,1.0
+Shelbyville Public Library,"Shelbyville Public Library Shelbyville, IL 62565",39.407531,-88.79412839999999,,,,,,,,,,,,
+Sheldon Public Library District,"125 North Fifth Street Sheldon, IL 60966-8143",40.7705825,-87.562103,Sheldon Public Library District,"125 N 5th Street, Sheldon IL 60966",Yes,Yes,65.0,12.0,65.0,12.0,65.0,12.0,65.0,12.0
+Sherman Public Library District,"2100 East Andrew Road Sherman, IL 62684-9676",39.8956458,-89.6143135,Sherman Public Library District,2100 E. Andrew Road,Yes,Yes,1.0,0.0,0.0,1.0,0.0,0.0,0.3333333333333333,0.3333333333333333
+Sherrard Public Library District,"501 3rd Street Sherrard, IL 61281-0345",41.3190154,-90.5073757,Sherrard Public Library District,501 3rd St Sherrard IL 61281,Yes,Yes,67.0,11.0,64.0,1.0,65.0,1.0,65.33333333333333,4.333333333333333
+Shorewood-Troy Public Library District,"650 Deerwood Drive Shorewood, IL 60404-8624",41.5240681,-88.20472140000001,,,,,,,,,,,,
+Sidell District Library,"101 East Market Street Sidell, IL 61876-0019",39.9105339,-87.8224485,,,,,,,,,,,,
+Sidney Community Library,"217 South David Street Sidney, IL 61877-0395",40.0242264,-88.0736817,,,,,,,,,,,,
+Niedringhaus Building,"2001 Delmar Avenue Granite City, IL 62040-4534",38.7024729,-90.1498571,,,,,,,,,,,,
+Johnson Road,"2145 Johnson Road Granite City, IL 62040",38.7234703,-90.1102064,Six Mile Regional Library District,"2145 Johnson Road, Granite City, IL 62040",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Skokie Public Library,"5215 Oakton Street Skokie, IL 60077-3634",42.0258969,-87.75803549999999,Skokie Public Library,"5215 Oakton St, Skokie, IL 60077",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Smithton Public Library District,"109 South Main Street Smithton, IL 62285-0098",38.4077019,-89.9928959,Smithton Public Library District,109 S Main St Smithton IL 62285,Yes,Yes,72.0,8.0,72.0,7.0,72.0,8.0,72.0,7.666666666666667
+Somonauk Public Library District,"700 East LaSalle Street Somonauk, IL 60552-9527",41.6313515,-88.67258369999999,Somonauk Public Library District,700 E. LaSalle St.,,,,,,,,,,
+South Beloit Public Library,"630 Blackhawk Blvd South Beloit, IL 61080",42.4881243,-89.0396976,South Beloit Public Library,"630 Blackhawk Blvd, South Beloit, IL 61080",Yes,Yes,101.0,7.0,104.0,7.0,95.0,7.0,100.0,7.0
+South County Public Library District,"106 West Main Street Brussels, IL 62013-0093",38.9531071,-90.6024337,,,,,,,,,,,,
+South Holland Public Library,"16250 Wausau Avenue South Holland, IL 60473-2152",41.5992895,-87.6107227,,,,,,,,,,,,
+South Macon Public Library District,"451 West Glenn Street Macon, IL 62544-0288",39.7071893,-89.0066171,South Macon Public Library,"451 West Glenn St, Macon, IL  62544",No,Yes,167.0,15.0,161.0,16.0,165.0,16.0,164.33333333333334,15.666666666666666
+South Pekin Public Library,"208 West Main Street South Pekin, IL 61564-0490",40.4942792,-89.6543219,,,,,,,,,,,,
+Sparta Public Library,"211 West Broadway Street Sparta, IL 62286-1634",38.122961,-89.70501019999999,Sparta Public Library,"211 W. Broadway, Sparta, Illinois 62286",Yes,Yes,200.0,40.0,145.0,44.0,64.0,41.0,136.33333333333334,41.666666666666664
+Spoon River Library District,"201 South Third Street Cuba, IL 61427-0140",40.4919964,-90.1960801,,,,,,,,,,,,
+Staunton Public Library,"306 West Main Street Staunton, IL 62088-2131",39.0115228,-89.7897899,Staunton Public Library,"306 W Main Street, Staunton, IL 62088",Yes,Yes,,,,,,,,
+Steeleville Area Public Library District,"625 South Sparta Street Steeleville, IL 62288-2147",38.0010099,-89.6592465,Steeleville Area Public Library District,"625 S. Sparta Street, Steeleville, IL 62288",Yes,Yes,,,,,,,,
+Steger-South Chicago Heights Public Library District,"54 East 31st Street Steger, IL 60475-1136",41.4749659,-87.6339421,,,,,,,,,,,,
+Sterling Public Library,"102 West Third Street Sterling, IL 61081-3505",41.7892445,-89.6978517,,,,,,,,,,,,
+Stickney-Forest View Public Library District,"6800 West 43rd Street Stickney, IL 60402-4400",41.8144837,-87.792722,,,,,,,,,,,,
+Stinson Memorial Public Library District,"409 South Main Street Anna, IL 62906-1211",37.4582989,-89.2518245,,,,,,,,,,,,
+Cobden Branch Library,"100 South Front Street Cobden, IL 62920",37.5325063,-89.253433,Stinson Memorial Public Library District,"100 Front St. Cobden, Il 62920",Yes,Yes,60.0,12.0,67.0,12.0,66.0,12.0,64.33333333333333,12.0
+Wolf Lake Branch Library,"4720 North State Route 3 Wolf Lake, IL 62998-0083",37.5046218,-89.43740729999999,,,,,,,,,,,,
+Stockton Township Public Library,"140 West Benton Street Stockton, IL 61085-1312",42.3505996,-90.0083428,Stockton Township Public Library,140 West Benton Ave,Yes,Yes,10.0,1.0,,,,,10.0,1.0
+Stonington Township Public Library,"500 East North Street Stonington, IL 62567-9700",39.6396024,-89.1833954,Stonington Township Library,"500 East North Street Stonington, IL  62567",Yes,Yes,110.0,91.0,110.0,89.0,109.0,88.0,109.66666666666667,89.33333333333333
+Streator Public Library,"130 South Park Street Streator, IL 61364-2954",41.1196746,-88.8345155,,,,,,,,,,,,
+Sugar Grove Public Library District,"125 South Municipal Drive Sugar Grove, IL 60554-6903",41.7622177,-88.45696699999999,,,,,,,,,,,,
+Summit Public Library District,"6233 South Archer Road Summit, IL 60501-1718",41.778389,-87.81314929999999,,,,,,,,,,,,
+Sumpter Township Library,"148 Courthouse Square Toledo, IL 62468-0067",39.2736491,-88.2436522,,,,,,,,,,,,
+Sun River Terrace Public Library District,"7219 East Chicago Street Sun River Terrace, IL 60964",41.12178979999999,-87.7364607,,,,,,,,,,,,
+Sycamore Public Library,"103 East State Street Sycamore, IL 60178-1440",41.9887436,-88.6837274,,,,,,,,,,,,
+Talcott Free Library District,"101 East Main Street Rockton, IL 61072-1925",42.4528324,-89.07220319999999,Talcott Free Library,"101 E Main St, Rockton, IL 61072",Yes,Yes,134.0,137.0,,,,,134.0,137.0
+Taylorville Public Library,"121 West Vine Street Taylorville, IL 62568-1950",39.5505033,-89.2957787,,,,,,,,,,,,
+Thomas Ford Memorial Library,"800 Chestnut Street Western Springs, IL 60558-1430",41.8127553,-87.899228,Thomas Ford Memorial Library,"800 Chestnut Street, Western Springs, IL 60558",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Channahon Location,"25207 W. Channon Dr. Channahon, IL 60410",41.43373,-88.2239421,Three Rivers Public Library District,"25207 W Channon Dr, Channahon IL 60410",Yes,Yes,84.0,10.0,83.0,10.0,88.0,15.0,85.0,11.666666666666666
+Minooka Location,"109 North Wabena Street Minooka, IL 60447-0370",41.45629599999999,-88.2619923,,,,,,,,,,,,
+Tilden Public Library,"381 Butler Street Tilden, IL 62292",38.2114959,-89.6802585,,,,,,,,,,,,
+Tiskilwa Public Library,"119 East Main St. Tiskilwa, IL 61368",41.2925477,-89.5065856,Tiskilwa Public Library,"119 E Main St, Tiskilwa, IL 61368",Yes,Yes,300.0,30.0,274.0,28.0,295.0,29.0,289.6666666666667,29.0
+Tolono Public Library District,"111 Main Street Tolono, IL 61880-0759",39.9852707,-88.2603766,,,,,,,,,,,,
+Toluca Public Library District,"102 North Main Street Toluca, IL 61369-9430",41.0020233,-89.1336223,Toluca Public Library District,"102 North Main Street, Toluca, IL 61369",Yes,Yes,27.0,3.0,31.0,4.0,30.0,4.0,29.333333333333332,3.6666666666666665
+Toulon Public Library District,"617 East Jefferson Street Toulon, IL 61483-8099",41.0933982,-89.85437739999999,,,,,,,,,,,,
+Towanda District Library,"301 South Taylor Street Towanda, IL 61776-7582",40.562911,-88.8951299,,,,,,,,,,,,
+Town and Country Public Library District,"320 East North Street Elburn, IL 60119-9005",41.89260890000001,-88.4685834,Town and Country Public Library,"320 E. North St. Elburn, IL, 60119",Yes,Yes,185.0,192.0,178.0,185.0,137.0,120.0,166.66666666666666,165.66666666666666
+Tremont District Library,"215 South Sampson Street Tremont, IL 61568-0123",40.5256084,-89.4915122,,,,,,,,,,,,
+Trenton Public Library,"118 East Indiana Street Trenton, IL 62293-1628",38.6029269,-89.6804822,,,,,,,,,,,,
+Tri-City Public Library District,"600 South Main Street Buffalo, IL 62515-0211",39.8471112,-89.4055193,,,,,,,,,,,,
+Tri-Township Public Library District,"209 South Main Street Troy, IL 62294-1429",38.7274747,-89.8841672,Tri-Township Public Library District,209 S. Main St. Troy IL 62294,Yes,Yes,43.0,17.0,,,,,43.0,17.0
+Tuscola Public Library,"112 East Sale Street Tuscola, IL 61953-1436",39.80008979999999,-88.2869037,,,,,,,,,,,,
+University Park Public Library District,"1100 Blackhawk Drive University Park, IL 60484-3302",41.4299244,-87.680996,,,,,,,,,,,,
+Urbana Free Library,"210 West Green Street Urbana, IL 61801-3283",40.1112955,-88.2094924,The Urbana Free Library,210 W Green St,,Yes,320.0,225.0,145.0,20.0,320.0,157.0,261.6666666666667,134.0
+Utica Public Library District,"224 Mill Street Utica, IL 61373-0367",41.3418639,-89.00923170000002,,,,,,,,,,,,
+Valley District Library,"515 Carter Street Fairview, IL 61432",40.6331212,-90.1641844,,,,,,,,,,,,
+Valmeyer Public Library District,"300 South Cedar Bluff Drive Valmeyer, IL 62295",38.3105622,-90.2782184,Valmeyer Public Library District,300 South Cedar Bluff Drive,Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Vance Township Library,"107 South Main Street Fairmount, IL 61841-0230",40.045894,-87.83035699999999,,,,,,,,,,,,
+Venice Public Library,"325 Broadway Avenue Venice, IL 62090-0159",38.6722227,-90.1706943,,,,,,,,,,,,
+Vermont Public Library,"101 North Main Street Vermont, IL 61484-0199",40.2946841,-90.426793,,,,,,,,,,,,
+Vernon Area Public Library District,"300 Olde Half Day Road Lincolnshire, IL 60069-2927",42.1987907,-87.9366972,Vernon Area Public Library District,300 Olde Half Day Road,Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Vespasian Warner Public Library District,"310 North Quincy Street Clinton, IL 61727-1300",40.1549505,-88.9615087,Vespasian Warner Public Library District,"310 N. Quincy St.,  Clinton, IL 61727",Yes,Yes,126.0,19.0,119.0,17.0,127.0,19.0,124.0,18.333333333333332
+Victoria Public Library District,"227 East Main Street Victoria, IL 61485-0216",41.0339864,-90.0965274,,,,,,,,,,,,
+Vienna Carnegie Public Library,"401 Poplar Street Vienna, IL 62995-0616",37.4138586,-88.89619750000001,,,,,,,,,,,,
+Villa Park Public Library,"305 South Ardmore Avenue Villa Park, IL 60181-2698",41.8847824,-87.9785828,,,,,,,,,,,,
+Village of Avon Public Library,"105 South Main Street Avon, IL 61415",40.661258,-90.4353605,,,,,,,,,,,,
+Viola Public Library District,"1701 17th Street Viola, IL 61486-0479",41.2027119,-90.5824619,,,,,,,,,,,,
+Virginia Memorial Public Library,"100 North Main Street Virginia, IL 62691-1364",39.9507407,-90.2093915,,,,,,,,,,,,
+Walnut Public Library District,"101 Heaton St. Walnut, IL 61376",41.5565891,-89.5945134,,,,,,,,,,,,
+Warren County Public Library District,"62 Public Square Monmouth, IL 61462-1756",40.9115978,-90.6488614,Warren County Public Library District,"62 Public Square, Monmouth, IL 61462",Yes,Yes,22.0,4.0,19.0,3.0,22.0,4.0,21.0,3.6666666666666665
+Alexis Branch,"102 West Broadway Avenue Alexis, IL 61412-0059",41.0629681,-90.5566431,,,,,,,,,,,,
+Kirkwood Branch,"134 South Kirk Kirkwood, IL 61447-0277",40.8670638,-90.7518513,,,,,,,,,,,,
+Roseville Branch,"145 West Penn Avenue Roseville, IL 61473",40.7325807,-90.6650202,,,,,,,,,,,,
+Warren Township Public Library,"210 Burnett Avenue Warren, IL 61087-0427",42.4963272,-89.9867139,,,,,,,,,,,,
+Warren-Newport Public Library District,"224 North O'Plaine Road Gurnee, IL 60031-2606",42.3629094,-87.9153089,Warren-Newport Public Library District,224 North O'Plaine Road,Yes,Yes,79.0,89.0,70.0,55.0,72.0,80.0,73.66666666666667,74.66666666666667
+Warrenville Public Library District,"28W751 Stafford Place Warrenville, IL 60555-3002",41.8231614,-88.18256459999999,,,,,,,,,,,,
+Warsaw Public Library,"1025 Webster Street Warsaw, IL 62379-1454",40.3562273,-91.4298415,,,,,,,,,,,,
+Washington District Library,"380 North Wilmor Road Washington, IL 61571-2690",40.7071846,-89.4231485,Washington District Library,"380 N Wilmor Rd, Washington",Yes,Yes,235.0,49.0,224.0,46.0,234.0,47.0,231.0,47.333333333333336
+Sunnyland Branch,"16 Washington Plaza Washington, IL 61571-1944",40.6923088,-89.48178519999999,,,,,,,,,,,,
+Watseka Public Library,"201 South Fourth Street Watseka, IL 60970-1656",40.77485,-87.73322929999999,,,,,,,,,,,,
+Wauconda Area Public Library District,"801 North Main Street Wauconda, IL 60084",42.27066869999999,-88.1449217,,,,,,,,,,,,
+Main Branch,"128 North County Street Waukegan, IL 60085-4306",42.36198419999999,-87.8332551,Waukegan Public Library,128 N County St.,Yes,Yes,62.0,11.0,54.0,10.0,56.0,10.0,57.333333333333336,10.333333333333334
+Hinkston Field House Branch,"800 Baldwin Avenue Waukegan, IL 60085",42.37095230000001,-87.873234,,,,,,,,,,,,
+Waverly Public Library,"291 North Pearl Street Waverly, IL 62692-1080",39.5933749,-89.9536541,,,,,,,,,,,,
+Wayne City Kissner Public Library,"102 South Main Street Wayne City, IL 62895",38.3461831,-88.5884979,,,,,,,,,,,,
+Waynesville Township Library,"303 East Second Street Waynesville, IL 61778-0059",40.2392632,-89.12217110000002,Waynesville Township Library,"303 E. 2nd Street Waynesville, IL 61778",,,,,,,,,,
+Weldon Public Library District,"505 Maple Street Weldon, IL 61882-0248",40.1208496,-88.7514668,,,,,,,,,,,,
+West Chicago Public Library District,"118 West Washington Street West Chicago, IL 60185-2803",41.8840443,-88.20556119999999,West Chicago Public Library,"118 W Washington St., West Chicago, Il 60185",Yes,Yes,250.0,261.0,206.0,258.0,254.0,262.0,236.66666666666666,260.3333333333333
+West Frankfort Public Library,"402 East Poplar Street West Frankfort, IL 62896-2423",37.8986218,-88.9233505,,,,,,,,,,,,
+West Salem Public Library,"112 West South Street West Salem, IL 62476-0128",38.5199749,-88.005365,,,,,,,,,,,,
+West Sangamon Public Library District,"112 East Illinois Street New Berlin, IL 62670-0439",39.7250386,-89.91151149999999,West Sangamon Public Library,"112 East Illinois, New Berlin, IL, 62670",Yes,Yes,90.0,89.0,88.0,89.0,92.0,94.0,90.0,90.66666666666667
+West Union District Library,"209 West Union Street West Union, IL 62477-0138",39.2160619,-87.6680342,,,,,,,,,,,,
+Westchester Public Library,"10700 Canterbury Street Westchester, IL 60154-4203",41.8555699,-87.89004369999999,,,,,,,,,,,,
+Western District Library,"1111 Fourth Street Orion, IL 61273-0070",41.3530822,-90.3810521,,,,,,,,,,,,
+Westmont Public Library,"428 North Cass Avenue Westmont, IL 60559-1502",41.8062111,-87.9761247,Westmont Public Library,"428 N Cass Ave, Westmont, Illinois 60559",Yes,Yes,320.0,320.0,320.0,320.0,320.0,320.0,320.0,320.0
+Westville Public Library District,"233 South State Street Westville, IL 61883-1561",40.0408528,-87.6378233,,,,,,,,,,,,
+Wheaton Public Library,"225 North Cross Street Wheaton, IL 60187-5342",41.8667641,-88.104805,Wheaton Public Library,"225 N. Cross St. Wheaton, IL 60187",Yes,Yes,320.0,41.0,320.0,38.0,320.0,41.0,320.0,40.0
+White Hall Township Library,"119 East Sherman Street White Hall, IL 62092-1356",39.4365452,-90.402818,White Hall Township Public Library,"119 E Sherman St. White Hall, IL 62092",Yes,Yes,16.0,3.0,16.0,3.0,16.0,3.0,16.0,3.0
+Romeoville Branch Library,"201 West Normantown Road Romeoville, IL 60446-3080",41.6541146,-88.0857339,,,,,,,,,,,,
+Crest Hill Branch Library,"20670 City Center Blvd Crest Hill, IL 60403",41.5707194,-88.1189187,White Oak Library Distirct,"20670 City Center Blvd., Crest Hill, IL 60403",Yes,Yes,78.0,84.0,66.0,85.0,81.0,88.0,75.0,85.66666666666667
+Lockport Branch Library,"121 East Eighth Street Lockport, IL 60441-3080",41.5899143,-88.0561354,White Oak Library District,"121 E. 8th St., Lockport, IL 60441",Yes,Yes,81.0,89.0,68.0,83.0,85.0,89.0,78.0,87.0
+William Leonard Public Library District,"13820 Central Park Avenue Robbins, IL 60472-1920",41.6413697,-87.7090578,,,,,,,,,,,,
+Williamsfield Public Library District,"407 Norman Drive Williamsfield, IL 61489",40.9289806,-90.0197125,,,,,,,,,,,,
+Williamsville Public Library and Museum,"217 North Elm Street Williamsville, IL 62693-7504",39.95605949999999,-89.5505739,,,,,,,,,,,,
+Willow Branch Township Library,"330 North Eldon Street Cisco, IL 61830-0039",40.0144971,-88.72718739999999,,,,,,,,,,,,
+Wilmette Public Library District,"1242 Wilmette Avenue Wilmette, IL 60091-2558",42.0749487,-87.70933339999999,Wilmette Public Library District,1242 Wilmette Avenue,Yes,Yes,304.0,171.0,215.0,177.0,320.0,225.0,279.6666666666667,191.0
+Wilmington Public Library District,"201 S Kankakee St Wilmington, IL 60481",41.3076941,-88.14381639999999,,,,,,,,,,,,
+Winchester Public Library,"215 North Main Street Winchester, IL 62694-1109",39.6336226,-90.4566128,,,,,,,,,,,,
+Windsor Storm Memorial Public Library District,"102 South Maple Street Windsor, IL 61957-1443",39.4380727,-88.5933455,Windsor Storm Memorial Public Library,"102 South Maple Street Windsor, IL 61957",Yes,Yes,82.0,88.0,46.0,84.0,81.0,89.0,69.66666666666667,87.0
+Winfield Public Library,"0S291 Winfield Road Winfield, IL 60190-1296",41.866201,-88.1579375,Winfield Public Library,"0S291 Winfield Rd., Winfield, IL 60190",Yes,Yes,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+Winnebago Public Library District,"210 North Elida Street Winnebago, IL 61088-8586",42.2680687,-89.2419287,,,,,,,,,,,,
+Winnetka-Northfield Public Library District,"768 Oak Street Winnetka, IL 60093",42.1043086,-87.732896,,,,,,,,,,,,
+Northfield Branch,"1785 Orchard Lane Northfield, IL 60093",42.100636,-87.77049199999999,Winnetka-Northfield Public Library District,"1785 Orchard Lane, Northfield",Yes,Yes,20.0,6.0,117.0,35.0,121.0,36.0,86.0,25.666666666666668
+Witt Township Memorial Library,"18 North Second Street Witt, IL 62094-0442",39.25489049999999,-89.3520199,,,,,,,,,,,,
+Wood Dale Public Library District,"520 North Wood Dale Road Wood Dale, IL 60191-1536",41.97081559999999,-87.9799638,Wood Dale Public Library District,"520 N. Wood Dale Rd. Wood Dale, IL 60191",Yes,Yes,144.0,29.0,94.0,28.0,142.0,29.0,126.66666666666667,28.666666666666668
+Wood River Public Library,"326 East Ferguson Avenue Wood River, IL 62095-2098",38.8608224,-90.090776,,,,,,,,,,,,
+Woodridge Public Library,"3 Plaza Drive Woodridge, IL 60517-5014",41.7559671,-88.0449433,Woodridge Public Library,"3 Plaza Drive, Woodridge, IL 60517",Yes,Yes,320.0,200.0,320.0,200.0,320.0,200.0,320.0,200.0
+Worden Public Library District,"111 East Wall Street Worden, IL 62097-1300",38.931732,-89.8388154,,,,,,,,,,,,
+Worth Public Library District,"6917 West 111th Street Worth, IL 60482-1889",41.6896954,-87.792357,,,,,,,,,,,,
+Wyoming Public Library District,"119 North Seventh Street Wyoming, IL 61491-1307",41.0625883,-89.77276739999999,,,,,,,,,,,,
+York Township Public Library,"1005 West Main Street Thomson, IL 61285-8502",41.9584644,-90.1032659,,,,,,,,,,,,
+Yorkville Public Library,"902 Game Farm Road Yorkville, IL 60560-2105",41.652574,-88.450306,Yorkville Public Library,"902 Game Farm Rd., Yorkville, IL",Yes,Yes,320.0,252.0,320.0,196.0,320.0,320.0,320.0,256.0
+Zeigler Public Library,"102 East Maryland Street Zeigler, IL 62999-1279",37.8986632,-89.05147099999999,,,,,,,,,,,,
+Zion-Benton Public Library District,"2400 Gabriel Avenue Zion, IL 60099-2297",42.4510168,-87.8395494,,,,,,,,,,,,
