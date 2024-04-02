@@ -39,3 +39,6 @@ Contains short, clean notebooks to demonstrate analysis.
 
 ### data
 Contains details of acquiring all raw data used in repository.
+
+### shiny-code
+Contains the soruce code of the Shiny App.
